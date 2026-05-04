@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Threads Research Studio</title>
+<meta name="description" content="伸びてるThreads投稿のキュレーションサイト">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&family=Playfair+Display:ital,wght@0,700;0,900;1,700&family=JetBrains+Mono:wght@400;600&family=Noto+Sans+JP:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<!-- 背景装飾 -->
+<div class="mesh"></div>
+<div class="grid-bg"></div>
+<div class="grain"></div>
+
+<div class="container">
+
+  <!-- ナビゲーション -->
+  <nav>
+    <div class="logo" data-action="go-home">
+      <div class="logo-mark">🧵</div>
+      <span>Threads Research Studio</span>
+    </div>
+  </nav>
+
+  <!-- ===== ビュー1：ホーム（ジャンル選択） ===== -->
+  <section class="view view-home active" data-view="home">
+    <div class="hero">
+      <div class="eyebrow">✨ Curated by Claude in Chrome × Claude Code</div>
+      <h1>伸びてる投稿の、<br><span class="accent">library.</span></h1>
+      <p>Threadsで毎日キュレーションされる、価値提供型のバズ投稿コレクション。</p>
+    </div>
+
+    <!-- 統計 -->
+    <div class="stats" id="stats">
+      <div class="stat-item">
+        <div class="stat-num" id="totalCount">0</div>
+        <div class="stat-label">投稿</div>
+      </div>
+      <div class="stat-divider"></div>
+      <div class="stat-item">
+        <div class="stat-num" id="genreCount">0</div>
+        <div class="stat-label">ジャンル</div>
+      </div>
+      <div class="stat-divider"></div>
+      <div class="stat-item">
+        <div class="stat-num" id="updatedAt">—</div>
+        <div class="stat-label">最終更新</div>
+      </div>
+    </div>
+
+    <!-- ジャンル選択 -->
+    <h2 class="section-heading">ジャンルを選ぶ</h2>
+    <div class="genre-grid" id="genreGrid">
+      <!-- script.js が動的に挿入 -->
+    </div>
+  </section>
+
+  <!-- ===== ビュー2：ジャンル詳細 ===== -->
+  <section class="view view-genre-detail" data-view="genre-detail">
+    <div class="view-head">
+      <button class="btn-back" data-action="go-home">← 戻る</button>
+      <div class="view-meta">
+        <h2 id="genreDetailTitle">ジャンル名</h2>
+        <p id="genreDetailMeta"></p>
+      </div>
+    </div>
+
+    <div class="post-list" id="postList">
+      <!-- script.js が動的に挿入 -->
+    </div>
+  </section>
+
+  <!-- ===== ビュー3：エラー ===== -->
+  <section class="view view-error" data-view="error">
+    <div class="error-panel">
+      <div class="error-icon">⚠️</div>
+      <h2>エラーが発生しました</h2>
+      <p id="errorMessage"></p>
+      <div class="action-row">
+        <button class="btn-secondary" data-action="go-home">ホームへ戻る</button>
+      </div>
+    </div>
+  </section>
+
+  <!-- トースト通知 -->
+  <div id="toast" class="toast"></div>
+
+</div>
+
+<script src="script.js"></script>
+</body>
+</html>

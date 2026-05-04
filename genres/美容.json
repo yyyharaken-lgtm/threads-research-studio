@@ -1,0 +1,18 @@
+{
+  "name": "美容",
+  "icon": "💄",
+  "judgment_file": "criteria/howto-judgment.md",
+  "core_keywords": [
+    "スキンケア",
+    "美容",
+    "コスメ",
+    "クレンジング"
+  ],
+  "pain_keywords": [
+    "シミ",
+    "ニキビ",
+    "毛穴",
+    "くすみ",
+    "たるみ"
+  ]
+}
