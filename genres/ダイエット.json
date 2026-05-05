@@ -1,0 +1,17 @@
+{
+  "name": "ダイエット",
+  "icon": "💪",
+  "judgment_file": "criteria/howto-judgment.md",
+  "core_keywords": [
+    "ダイエット",
+    "痩せる",
+    "減量"
+  ],
+  "pain_keywords": [
+    "お腹痩せ",
+    "太もも痩せ",
+    "リバウンド",
+    "糖質制限",
+    "16時間断食"
+  ]
+}

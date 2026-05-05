@@ -1,0 +1,18 @@
+{
+  "name": "AI",
+  "icon": "🤖",
+  "judgment_file": "criteria/howto-judgment.md",
+  "core_keywords": [
+    "AI",
+    "ChatGPT",
+    "Claude",
+    "生成AI"
+  ],
+  "pain_keywords": [
+    "プロンプト",
+    "使い方",
+    "効率化",
+    "Notion AI",
+    "Cursor"
+  ]
+}

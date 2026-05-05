@@ -1,0 +1,18 @@
+{
+  "name": "お金",
+  "icon": "💰",
+  "judgment_file": "criteria/howto-judgment.md",
+  "core_keywords": [
+    "副業",
+    "節約",
+    "貯金",
+    "投資"
+  ],
+  "pain_keywords": [
+    "老後資金",
+    "教育費",
+    "住宅ローン",
+    "物価高",
+    "ボーナス"
+  ]
+}

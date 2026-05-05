@@ -1,0 +1,54 @@
+{
+  "mode": "genre",
+  "genre": "占い",
+  "keywords": [
+    "金運",
+    "恋愛運",
+    "仕事運",
+    "一粒万倍日",
+    "天赦日"
+  ],
+  "executed_at": "2026-05-05 03:35",
+  "post_count": 3,
+  "posts": [
+    {
+      "rank": 1,
+      "author_name": "reishi_kai",
+      "author_url": "https://www.threads.com/@reishi_kai",
+      "post_text": "あんた、これだけ約束できるか。\n「3億入っても、3日間は誰にも言わん」\nこの覚悟がある人間だけに\n金運の道は開く。",
+      "likes": 10000,
+      "comments": 162,
+      "posted_at": "2026-03-29",
+      "post_url": "https://www.threads.com/@reishi_kai/post/DWc9X2HCElM",
+      "matched_keyword": "金運",
+      "account_score": 7,
+      "post_score": 2
+    },
+    {
+      "rank": 2,
+      "author_name": "shirohebi_reishi",
+      "author_url": "https://www.threads.com/@shirohebi_reishi",
+      "post_text": "あんた、これだけ約束してくれへんか。\n白蛇様がな、今夜あんたに\n1つだけ聞いとる。\n「3億入っても、3日間は誰にも言わんと\n静かに過ごせるか」\nこの約束ができる人間だけに、金運の道が開く。",
+      "likes": 10000,
+      "comments": 320,
+      "posted_at": "2026-03-10",
+      "post_url": "https://www.threads.com/@shirohebi_reishi/post/DV6L1JsCOhs",
+      "matched_keyword": "金運",
+      "account_score": 7,
+      "post_score": 2
+    },
+    {
+      "rank": 3,
+      "author_name": "yu_ki_uranaishi",
+      "author_url": "https://www.threads.com/@yu_ki_uranaishi",
+      "post_text": "「え？ この振込、誰からかしら？」\nって驚くくらい、4月の金運は\nぐんぐん上がっていくわよ。\n臨時収入は偶然じゃないわ。\n運の流れが、あんたの元へと\nちゃんと運んできてくれるもの。\n気づけば、お財布も心も\nたんまり満たされているはずよ。",
+      "likes": 2247,
+      "comments": 4,
+      "posted_at": "2026-03-26",
+      "post_url": "https://www.threads.com/@yu_ki_uranaishi/post/DWWavz_iJ7n",
+      "matched_keyword": "金運",
+      "account_score": 7,
+      "post_score": 2
+    }
+  ]
+}

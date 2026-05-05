@@ -1,0 +1,18 @@
+{
+  "name": "占い",
+  "icon": "🔮",
+  "judgment_file": "criteria/uranai-judgment.md",
+  "core_keywords": [
+    "占い",
+    "スピリチュアル",
+    "開運",
+    "運気"
+  ],
+  "pain_keywords": [
+    "金運",
+    "恋愛運",
+    "仕事運",
+    "一粒万倍日",
+    "天赦日"
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "name": "転職",
+  "icon": "💼",
+  "judgment_file": "criteria/howto-judgment.md",
+  "core_keywords": [
+    "転職",
+    "退職",
+    "キャリア",
+    "会社員"
+  ],
+  "pain_keywords": [
+    "年収",
+    "ブラック企業",
+    "上司",
+    "残業",
+    "人間関係"
+  ]
+}

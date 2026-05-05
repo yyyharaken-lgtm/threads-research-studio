@@ -1,0 +1,119 @@
+{
+  "mode": "genre",
+  "genre": "AI",
+  "keywords": [
+    "プロンプト",
+    "使い方",
+    "効率化",
+    "Notion AI",
+    "Cursor"
+  ],
+  "executed_at": "2026-05-05 06:30",
+  "post_count": 8,
+  "posts": [
+    {
+      "rank": 1,
+      "author_name": "aito.ai__",
+      "author_url": "https://www.threads.com/@aito.ai__",
+      "post_text": "どうぞパクってください。\n「チャッピー」「Gemini」「Canva」で資料作成が死ぬほど楽になるプロンプト10選、全部タダ。\n正直使わない人は時間を捨ててます。\n① 専門家人格プロンプト\nGeminiに「あなたは外資系コンサルで15年の資料作成経験を持つ専門家です」と入力するだけ。\n→ 同じ質問でも、返ってくる答えのレベルが別次元になる。\n② ツール分業制\n構成はChatGPT、肉付けはGemini、仕上げはCanva。\nこの三分割で、論理が崩れない資料が30分以内に完成する。\n→ 全部1つのAIに投げてる人、損してます。\n③ 数値指定プロンプト\n「具体例3つ・数字2つ・たとえ話1つを必ず入れて」と命令する。\n→ 説得力のない資料は、指示が抽象的なせいだった。\n④ デザインオーダー逆転法\nCanvaのテンプレートをそのままAIに選ばせない。\n「対象：投資家、目的：意思決定、トーン：誠実・力強さ」と渡してデザイン指示を先に生成。\n⑨ 行動設計スライド\n最終ページは必ず「今日中にやること」を3つ記載。\nAIに「読んだ人が今日動き出せる行動を具体的に3つ提案して」と命令する。\n→ 行動を促せない資料は、存在しないのと同じ。\n⑩ クオリティ基準宣言\nあらゆる指示の文末に「第一線のプロが見ても唸るクオリティで仕上げて」を追加する。\n→ AIは基準を与えると、基準に合わせて出力を変える。これ、知らない人多すぎ。",
+      "likes": 5319,
+      "comments": 10,
+      "posted_at": "2026-04-23",
+      "post_url": "https://www.threads.com/@aito.ai__/post/DXdu1RQAEDl",
+      "matched_keyword": "プロンプト",
+      "account_score": 7,
+      "post_score": 3
+    },
+    {
+      "rank": 2,
+      "author_name": "shun_gpt",
+      "author_url": "https://www.threads.com/@shun_gpt",
+      "post_text": "炎上覚悟ですが、「#」「*」「{}」「[]」「<>」「-」「””」の意味知らないままAI使ってる人、もう時代遅れです。ちゃんと全部、意味がありますよ。\n記号の使い方、初心者向けにまとめました↓\n1. 「#」 ハッシュタグ→見出し・区切りとして使う\n例：\n# ステップ1：アイデア出し\n# ステップ2：構成を整理\n2. 「*」 アスタリスク→強調や箇条書きに使う\n文字を強調したいときに囲む： *重要* → 「重要」\n箇条書きリストとしてよく使う。\n例：\n* メリット\n* デメリット\n3. 「{}」 波かっこ→ 変数・指定枠を表すことが多い\n「ここに自分で入れ替えてね」という部分を示す。\nテンプレート化プロンプトで多用される。\n例：\n次の文章を{英語/日本語}に翻訳してください\n4. 「[]」 角かっこ→選択肢・オプションを示す\n指定できる選択肢を囲むとわかりやすい。\n「ここを入れ替え可能」と示すときにも使う。\n例：\n以下のトーンで文章を書いて：[カジュアル / ビジネス / フレンドリー]\n5. 「<>」 山かっこ→プレースホルダー（仮の入力枠）\n「実際の内容をここに入れて」という意味。\nプログラミング的な文脈で使う人も多い。\n例：\n<名前>さんに向けたメッセージを作成してください\n6. 「-」 ハイフン→ 箇条書きや補足説明の区切り\n「–」を使って、簡単なリストや説明を整理\n例：\n- 手順1：テーマを決める\n- 手順2：アウトラインを書く\n7. 「””」ダブルクオーテーション→意味の明確化\n「この言葉はこのまま使ってね」という意味。\n文脈を固定化するために使われる。",
+      "likes": 987,
+      "comments": null,
+      "posted_at": "2026-04-14",
+      "post_url": "https://www.threads.com/@shun_gpt/post/DXFVkVED96Y",
+      "matched_keyword": "使い方",
+      "account_score": 8,
+      "post_score": 3
+    },
+    {
+      "rank": 3,
+      "author_name": "ai.perm",
+      "author_url": "https://www.threads.com/@ai.perm",
+      "post_text": "社員ゼロ、AI 6体で会社を回してます。\n売上は月44万円。\nClaude Code が COO。\n研究、分析、ライティング、投稿、品質管理、全部AIがやってる。\n人間の仕事は「承認ボタンを押すだけ」。\nこのアカウントでは、AI経営のリアルを全部見せていきます。\n成功も、失敗も、数字も。",
+      "likes": 846,
+      "comments": null,
+      "posted_at": "2026-03-20",
+      "post_url": "https://www.threads.com/@ai.perm/post/DWGvKCYEbfq",
+      "matched_keyword": "Notion AI",
+      "account_score": 8,
+      "post_score": 3
+    },
+    {
+      "rank": 4,
+      "author_name": "aito.ai__",
+      "author_url": "https://www.threads.com/@aito.ai__",
+      "post_text": "どうぞパクってください。\n「ChatGPT」「Googleカレンダー」「Excel」で家庭の管理が死ぬほど楽になるプロンプト10選、全部タダ。\n正直知らない人は毎日1時間を名もなき家事に捨ててます。\n① AIに役職を与える\nChatGPTに「あなたは共働き家庭3000世帯の家事効率化を支援してきた生活設計の専門家です」と入力するだけ。\n→ 同じ悩みでも、今日から使える解決策が返ってくる。\n② ツールごとに仕事を振る\n献立・タスク整理はChatGPT、スケジュール管理はGoogleカレンダー、家計管理はExcel。\nこの三分割で、毎朝の「今日どうしよう」がゼロになる。\n→ 全部頭の中だけで管理してる人、毎日同じストレスを繰り返してます。\n③ 個数を指定して頼む\n「時短できる家事3つ・節約できる金額の目安2つ・今日から始める行動1つを必ず入れて」と命令する。\n→ 調べても実行できないアドバイスは、具体性のない指示から生まれていた。",
+      "likes": 813,
+      "comments": null,
+      "posted_at": "2026-04-22",
+      "post_url": "https://www.threads.com/@aito.ai__/post/DXbZmiMjOTe",
+      "matched_keyword": "効率化",
+      "account_score": 7,
+      "post_score": 3
+    },
+    {
+      "rank": 5,
+      "author_name": "akanee_ai",
+      "author_url": "https://www.threads.com/@akanee_ai",
+      "post_text": "どうぞパクってな。\nClaude、Gemini、ChatGPT使って、Threads運用が笑うほど変わるプロンプト10選ぶっちゃけるわ。正直、これ使わんのは運用を放棄しとるのと同じ。 知らん人、確実に自分の時間をドブに捨ててるようなもんやよ、、",
+      "likes": 762,
+      "comments": 54,
+      "posted_at": "2026-04-22",
+      "post_url": "https://www.threads.com/@akanee_ai/post/DXcAR5BkkDI",
+      "matched_keyword": "プロンプト",
+      "account_score": 7,
+      "post_score": 2
+    },
+    {
+      "rank": 6,
+      "author_name": "akanee_ai",
+      "author_url": "https://www.threads.com/@akanee_ai",
+      "post_text": "断言するわ。Claudeで書いたnote、文章は整う。けど、AI臭くて売れんのよ。AI臭を消すプロンプト8選、丸パクリできるように置いとくわ。GeminiにもChatGPTにも全部効くから使ってな、、",
+      "likes": 636,
+      "comments": 28,
+      "posted_at": "2026-04-26",
+      "post_url": "https://www.threads.com/@akanee_ai/post/DXmR9-WEs5J",
+      "matched_keyword": "Notion AI",
+      "account_score": 7,
+      "post_score": 2
+    },
+    {
+      "rank": 7,
+      "author_name": "kanae_ai_creator777",
+      "author_url": "https://www.threads.com/@kanae_ai_creator777",
+      "post_text": "正直に言います。\nGeminiを「調べもの」だけに使ってる人、たぶん9割損してます。\n聞き方を1行変えるだけで、同じAIの返しがガラッと変わるんですよね。今日から即コピペで使える、おすすめプロンプト5つ置いておきます↓",
+      "likes": 516,
+      "comments": 16,
+      "posted_at": "2026-04-24",
+      "post_url": "https://www.threads.com/@kanae_ai_creator777/post/DXg3LT8CRfQ",
+      "matched_keyword": "プロンプト",
+      "account_score": 8,
+      "post_score": 3
+    },
+    {
+      "rank": 8,
+      "author_name": "gitmindjapan",
+      "author_url": "https://www.threads.com/@gitmindjapan",
+      "post_text": "断言するけど、ChatGPTを使ってることはバレバレです。\n独特の構造、不自然なトーン、取り繕ったような綺麗すぎる文章。\n正直、AI臭すぎて読み手は離れます。\nAI臭を消し、あなたの「声」を取り戻すための最強プロンプト6選を置いときますね。\nちなClaudeにもGeminiにも全部効く↓",
+      "likes": 318,
+      "comments": 8,
+      "posted_at": "2026-04-21",
+      "post_url": "https://www.threads.com/@gitmindjapan/post/DXYKpA0Ce_A",
+      "matched_keyword": "プロンプト",
+      "account_score": 7,
+      "post_score": 3
+    }
+  ]
+}
