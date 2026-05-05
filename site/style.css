@@ -88,6 +88,34 @@ body {
 }
 
 /* ============================================
+   Threadsアイコン
+   ============================================ */
+
+.logo-mark svg {
+  width: 20px;
+  height: 20px;
+  color: #fff;
+}
+
+.threads-icon-hero {
+  width: 56px;
+  height: 56px;
+  vertical-align: middle;
+  margin-right: 14px;
+  margin-bottom: 8px;
+  color: #fff;
+  filter: drop-shadow(0 0 24px rgba(255, 255, 255, 0.2));
+}
+
+.threads-icon-sm {
+  width: 14px;
+  height: 14px;
+  vertical-align: middle;
+  margin-right: 4px;
+  color: currentColor;
+}
+
+/* ============================================
    ナビゲーション
    ============================================ */
 
@@ -117,6 +145,7 @@ nav {
   display: flex;
   align-items: center;
   justify-content: center;
+  color: #fff;
   font-size: 18px;
   box-shadow: 0 8px 32px rgba(91, 140, 255, 0.5),
               inset 0 1px 0 rgba(255, 255, 255, 0.3);
