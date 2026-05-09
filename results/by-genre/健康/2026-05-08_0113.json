@@ -1,0 +1,54 @@
+{
+  "mode": "genre",
+  "genre": "健康",
+  "keywords": [
+    "疲労",
+    "不眠",
+    "肩こり",
+    "腰痛",
+    "自律神経"
+  ],
+  "executed_at": "2026-05-08 01:13",
+  "post_count": 3,
+  "posts": [
+    {
+      "rank": 1,
+      "author_name": "pandakanpo",
+      "author_url": "https://www.threads.com/@pandakanpo",
+      "post_text": "寒暖差はつかれます。\n自律神経が気温の変化に合わせて体を調整しようとするから、消耗して当然です。\nいつもより疲れを感じやすい時期なので、食事は消化のいい、温かくて薄味のものを意識してみてください。\nあと、早寝。これが一番の回復薬だったりします。",
+      "likes": 299,
+      "comments": 2,
+      "posted_at": "2026-04-09",
+      "post_url": "https://www.threads.com/@pandakanpo/post/DW48DkEAXT9",
+      "matched_keyword": "自律神経",
+      "account_score": 8,
+      "post_score": 3
+    },
+    {
+      "rank": 2,
+      "author_name": "rozukurea",
+      "author_url": "https://www.threads.com/@rozukurea",
+      "post_text": "あの～皆さん昨日から今日にかけて\nかなり自律神経が乱れて\n頭痛、目眩、吐き気、腹痛などの辛い症状\n出ていませんか？\nそれ、低気圧と雨、寒暖差、新月の影響\nなので、今回かなり辛いと思います。",
+      "likes": 618,
+      "comments": 52,
+      "posted_at": "2026-04-16",
+      "post_url": "https://www.threads.com/@rozukurea/post/DXKOGy9mcj4",
+      "matched_keyword": "自律神経",
+      "account_score": 6,
+      "post_score": 2
+    },
+    {
+      "rank": 3,
+      "author_name": "awakeyogaofficial",
+      "author_url": "https://www.threads.com/@awakeyogaofficial",
+      "post_text": "今日は新月。体も心もリセットするのにはいい日。3年ぐらい？毎日やっているんですが、本日からスタートで体のあちこち4週間チェックしていきます。腰痛肩こり、体重増加から抜け出したい方はぜひ〜インスタにて7時55分から5分ライブです🫶",
+      "likes": 171,
+      "comments": null,
+      "posted_at": "2026-04-17",
+      "post_url": "https://www.threads.com/@awakeyogaofficial/post/DXN4hJEkrfk",
+      "matched_keyword": "肩こり",
+      "account_score": 4,
+      "post_score": 2
+    }
+  ]
+}

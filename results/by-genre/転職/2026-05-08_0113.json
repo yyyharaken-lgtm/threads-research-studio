@@ -1,0 +1,41 @@
+{
+  "mode": "genre",
+  "genre": "転職",
+  "keywords": [
+    "年収",
+    "ブラック企業",
+    "上司",
+    "残業",
+    "人間関係"
+  ],
+  "executed_at": "2026-05-08 01:13",
+  "post_count": 2,
+  "posts": [
+    {
+      "rank": 1,
+      "author_name": "rockkomuin",
+      "author_url": "https://www.threads.com/@rockkomuin",
+      "post_text": "「公務員あるある『頑張らない方が得』\n真面目に残業して頑張り、仕事もそれなりにこなすと、次はもっと忙しい部署に飛ばされる。\n最低限しかしない人は『あの人そういう人だから』でスルー。\n結果、真面目な人からメンタル壊れて辞めていく…\nこれが役所のリアル構造です。",
+      "likes": 527,
+      "comments": 34,
+      "posted_at": "2026-04-30",
+      "post_url": "https://www.threads.com/@rockkomuin/post/DXu8YAgE-2t",
+      "matched_keyword": "残業",
+      "account_score": 7,
+      "post_score": 3
+    },
+    {
+      "rank": 2,
+      "author_name": "yuton_freelife",
+      "author_url": "https://www.threads.com/@yuton_freelife",
+      "post_text": "47歳、中間管理職。\n会議が終わって\nみんなが席を立ったあと。\n一人で、ふっと息をつく。\n管理職って、\n仕事が多いから疲れると思われがち。\nでも本当に疲れるのは\n「感情の調整」だと思う。\n上司の意図。\n部下の温度。\nチームの空気。\n全部見ながら、言葉を選ぶ。\n人間関係の交通整理。\nこれが一番エネルギーを使う。\nしかも\n見えにくく、評価もされにくい。\n同じような仕事している人、\nいますか。",
+      "likes": 503,
+      "comments": 46,
+      "posted_at": "2026-03-17",
+      "post_url": "https://www.threads.com/@yuton_freelife/post/DV-27JejWLs",
+      "matched_keyword": "上司",
+      "account_score": 7,
+      "post_score": 2
+    }
+  ]
+}

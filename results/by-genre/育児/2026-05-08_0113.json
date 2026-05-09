@@ -1,0 +1,29 @@
+{
+  "mode": "genre",
+  "genre": "育児",
+  "keywords": [
+    "夜泣き",
+    "偏食",
+    "イヤイヤ期",
+    "ワンオペ",
+    "寝かしつけ"
+  ],
+  "executed_at": "2026-05-08 01:13",
+  "post_count": 1,
+  "note": "前回（2026-05-05）にトップ層を網羅取得済み。今回は新規かつ条件通過分のみ追加。",
+  "posts": [
+    {
+      "rank": 1,
+      "author_name": "gorimama_ikuji",
+      "author_url": "https://www.threads.com/@gorimama_ikuji",
+      "post_text": "ごめんなさい、炎上するかもしれませんが\nズボラオカンなので月齢すぎちゃった離乳食を温めて\n無印良品のカレールーぶち込んで\n即席絶品お子様カレーをお昼ごはんにしてるｳﾎ…🦍🍛\n尚、偏食気味の2歳児息子の食いつきは\nめちゃくちゃ良い模様ｳﾎ🦍✨️",
+      "likes": 3623,
+      "comments": 62,
+      "posted_at": "2026-03-17",
+      "post_url": "https://www.threads.com/@gorimama_ikuji/post/DV9n_P6Et52",
+      "matched_keyword": "偏食",
+      "account_score": 7,
+      "post_score": 2
+    }
+  ]
+}
