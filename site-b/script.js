@@ -2,16 +2,20 @@
    Threadsバズ投稿の教科書 - フロントエンド
    ============================================ */
 
+// モノクロ線画SVGアイコン（エディトリアル仕様）
+const SVG_OPEN = '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">';
+const SVG_CLOSE = '</svg>';
+
 const GENRES = [
-  { name: '美容',        icon: '💄' },
-  { name: 'お金',        icon: '💰' },
-  { name: '育児',        icon: '👶' },
-  { name: '恋愛',        icon: '💕' },
-  { name: '占い',        icon: '🔮' },
-  { name: 'AI',          icon: '🤖' },
-  { name: '転職',        icon: '💼' },
-  { name: '健康',        icon: '🌿' },
-  { name: 'ダイエット',  icon: '💪' },
+  { name: '美容', icon: SVG_OPEN + '<rect x="9" y="2.5" width="6" height="6" rx="1"/><rect x="8" y="8.5" width="8" height="3"/><rect x="9" y="11.5" width="6" height="10"/>' + SVG_CLOSE },
+  { name: 'お金', icon: SVG_OPEN + '<circle cx="12" cy="12" r="9"/><path d="M8 7l4 5 4-5M12 12v8M9 14h6M9 17h6"/>' + SVG_CLOSE },
+  { name: '育児', icon: SVG_OPEN + '<path d="M9 2.5h6M10 2.5v3M14 2.5v3"/><rect x="7.5" y="5.5" width="9" height="16" rx="2"/><path d="M7.5 11h9"/>' + SVG_CLOSE },
+  { name: '恋愛', icon: SVG_OPEN + '<rect x="3" y="6" width="18" height="13" rx="1"/><path d="M3 8l9 6 9-6"/>' + SVG_CLOSE },
+  { name: '占い', icon: SVG_OPEN + '<path d="M21 12.79A9 9 0 1 1 11.21 3 7 7 0 0 0 21 12.79z"/><path d="M5 4l.7 1.4L7 6l-1.3.6L5 8l-.7-1.4L3 6l1.3-.6z"/>' + SVG_CLOSE },
+  { name: 'AI', icon: SVG_OPEN + '<path d="M12 2a3 3 0 0 0-3 3v.5a3 3 0 0 0-3 3v.7a3 3 0 0 0-1.5 5.2A3 3 0 0 0 6 19.5a3 3 0 0 0 6 0V2z"/><path d="M12 2a3 3 0 0 1 3 3v.5a3 3 0 0 1 3 3v.7a3 3 0 0 1 1.5 5.2A3 3 0 0 1 18 19.5a3 3 0 0 1-6 0V2z"/>' + SVG_CLOSE },
+  { name: '転職', icon: SVG_OPEN + '<rect x="5" y="4" width="14" height="17" rx="1"/><path d="M9 2h6v3H9z"/><path d="M8 10h8M8 14h6M8 18h4"/>' + SVG_CLOSE },
+  { name: '健康', icon: SVG_OPEN + '<path d="M11 20A7 7 0 0 1 4 13V8a3 3 0 0 1 3-3h11a3 3 0 0 1 3 3v5a7 7 0 0 1-7 7"/><path d="M11 20v-9c0-3 2-7 7-9"/>' + SVG_CLOSE },
+  { name: 'ダイエット', icon: SVG_OPEN + '<path d="M3 9v6M5 7v10M19 7v10M21 9v6"/><path d="M5 12h14"/>' + SVG_CLOSE },
 ];
 
 const state = {

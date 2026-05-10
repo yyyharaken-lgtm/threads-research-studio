@@ -252,6 +252,19 @@ nav {
 .genre-icon {
   font-size: 36px;
   margin-bottom: auto;
+  display: flex;
+  align-items: center;
+  height: 44px;
+}
+
+.genre-icon svg {
+  width: 36px;
+  height: 36px;
+  color: var(--ink);
+}
+
+.genre-card:hover .genre-icon svg {
+  color: var(--bg);
 }
 
 .genre-name {
