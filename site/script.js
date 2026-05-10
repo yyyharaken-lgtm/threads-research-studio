@@ -120,7 +120,7 @@ function renderHome() {
 }
 
 // ===== ジャンル詳細画面の表示 =====
-function openGenre(genre) {
+function openGenre(genre, fromPopstate = false) {
   state.currentGenre = genre;
   const posts = (state.data?.posts || [])
     .filter(p => p.genre === genre.name)
@@ -136,6 +136,19 @@ function openGenre(genre) {
 
   renderPostList(posts);
   showView('genre-detail');
+
+  // ブラウザの履歴に追加（戻るボタンで戻れるように）
+  if (!fromPopstate) {
+    history.pushState({ view: 'genre-detail', genre: genre.name }, '', `#${encodeURIComponent(genre.name)}`);
+  }
+}
+
+// ===== ホーム画面に戻る（履歴追加） =====
+function goHome(fromPopstate = false) {
+  showView('home');
+  if (!fromPopstate) {
+    history.pushState({ view: 'home' }, '', '#');
+  }
 }
 
 function renderPostList(posts) {
@@ -195,7 +208,18 @@ function setupEventListeners() {
     if (!target) return;
     const action = target.dataset.action;
     if (action === 'go-home') {
+      goHome();
+    }
+  });
+
+  // ブラウザの戻る/進むボタンに対応
+  window.addEventListener('popstate', (e) => {
+    const st = e.state;
+    if (!st || st.view === 'home') {
       showView('home');
+    } else if (st.view === 'genre-detail' && st.genre) {
+      const genre = GENRES.find(g => g.name === st.genre);
+      if (genre) openGenre(genre, true);
     }
   });
 }
@@ -211,5 +235,18 @@ document.addEventListener('DOMContentLoaded', async () => {
   setupEventListeners();
   await loadData();
   renderHome();
-  showView('home');
+
+  // URLハッシュから初期表示を決定（直リンク・リロード対応）
+  const hash = decodeURIComponent(location.hash.replace('#', ''));
+  if (hash) {
+    const genre = GENRES.find(g => g.name === hash);
+    if (genre) {
+      openGenre(genre, true);
+    } else {
+      showView('home');
+    }
+  } else {
+    showView('home');
+    history.replaceState({ view: 'home' }, '', '#');
+  }
 });
