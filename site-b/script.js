@@ -128,7 +128,7 @@ function openGenre(genre, num, fromPopstate = false) {
     });
 
   $('#genreDetailNum').textContent = `CHAPTER ${String(num + 1).padStart(2, '0')}`;
-  $('#genreDetailTitle').innerHTML = `${genre.icon} <span style="vertical-align:middle">${genre.name}</span>`;
+  $('#genreDetailTitle').textContent = genre.name;
   $('#genreDetailMeta').textContent = `${posts.length} posts collected`;
 
   renderPostList(posts);
