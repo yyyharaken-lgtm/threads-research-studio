@@ -1,0 +1,36 @@
+{
+  "mode": "genre",
+  "genre": "AI",
+  "keywords": ["プロンプト", "使い方", "効率化", "Notion AI", "Cursor"],
+  "executed_at": "2026-05-10 00:40",
+  "post_count": 2,
+  "posts": [
+    {
+      "rank": 1,
+      "author_name": "almantiqi3",
+      "author_url": "https://www.threads.com/@almantiqi3",
+      "post_text": "断言するけど、ChatGPTの回答そのままコピペしてる人、AI臭くて人が離れるのでやめてください。代わりに、丸パクリできる「AI臭を消すプロンプト8選」置いときますね。ちなClaudeにもGeminiにも全部効く↓",
+      "likes": 158,
+      "comments": 5,
+      "posted_at": "2026-04-20",
+      "post_url": "https://www.threads.com/@almantiqi3/post/DXWW7gwDumN",
+      "matched_keyword": "プロンプト",
+      "account_score": 8,
+      "post_score": 3
+    },
+    {
+      "rank": 2,
+      "author_name": "shun_gpt",
+      "author_url": "https://www.threads.com/@shun_gpt",
+      "post_text": "内緒にしたいくらいだけど、Claudeを1年使い倒してわかった「これ入れとけば最強」のMegaプロンプト10個、完全公開します。どうせ97%の人はやらないので。コピペOKです↓",
+      "likes": 107,
+      "comments": 7,
+      "posted_at": "2026-04-08",
+      "post_url": "https://www.threads.com/@shun_gpt/post/DW3Y6VTDT23",
+      "matched_keyword": "プロンプト",
+      "account_score": 8,
+      "post_score": 3
+    }
+  ],
+  "note": "プロンプトキーワードでalmantiqi3（あるまん｜AIで賢くサボるSNS運用、運用代行20アカウント、LINE誘導）とshun_gpt（しゅん、企業AI研修50,000人、note誘導）を採用。使い方/効率化/Notion AI/Cursorは該当なし（Threads JPでは これらキーワードでHOWTOが少ない）。"
+}
