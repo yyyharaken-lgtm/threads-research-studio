@@ -53,12 +53,22 @@ else
 fi
 echo ""
 
-# Step 4: git commit & push
-echo "[4/4] サイトに反映中..."
+# Step 4: git commit & push（サイトA は GitHub 連携で自動デプロイ）
+echo "[4/5] git push でサイトA に反映中..."
 git add .
 COMMIT_MSG="Daily update: $(date +%Y-%m-%d)"
 git commit -m "$COMMIT_MSG" 2>&1 | tail -3
 git push 2>&1 | tail -5
+echo ""
+
+# Step 5: サイトB を Vercel CLI でデプロイ
+echo "[5/5] サイトB をデプロイ中..."
+if command -v vercel &> /dev/null; then
+    vercel --prod --cwd site-b --yes 2>&1 | grep -E "Production:|Aliased:" | head -3
+    echo "  ✓ サイトB デプロイ完了"
+else
+    echo "  ⚠️  vercel CLI が見つかりません（npm install -g vercel で入れられます）"
+fi
 echo ""
 
 # 完了
@@ -66,7 +76,9 @@ echo "============================================"
 echo "  ✨ 完了！"
 echo "============================================"
 echo ""
-echo "サイトURL: https://threads-research-tool-two.vercel.app"
-echo "30〜60秒後に自動デプロイされます。"
+echo "サイトA: https://threads-research-tool-two.vercel.app"
+echo "サイトB: https://site-b-chi.vercel.app"
+echo ""
+echo "30〜60秒後にどちらも反映されます。"
 echo ""
 read -p "Enterキーを押すと閉じます..."
