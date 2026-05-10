@@ -19,8 +19,11 @@ from pathlib import Path
 # ===== 設定 =====
 ROOT = Path(__file__).resolve().parent
 RESULTS_DIR = ROOT / "results"
-SITE_DIR = ROOT / "site"
-OUTPUT_FILE = SITE_DIR / "data.json"
+# 配信先サイトを複数指定できる（同じデータを複数サイトに配信）
+SITE_DIRS = [
+    ROOT / "site",      # メインサイト
+    ROOT / "site-b",    # 別アカウント用（Editorial版）
+]
 
 # ジャンルアイコンの定義（site/script.js と揃える）
 GENRE_ICONS = {
@@ -131,19 +134,22 @@ def main():
         reverse=True,
     )
 
-    # 4. data.json を出力
+    # 4. data.json を全サイトに出力
     print()
-    print("[4/4] site/data.json を出力中...")
-    SITE_DIR.mkdir(parents=True, exist_ok=True)
+    print("[4/4] data.json を各サイトに配信中...")
     output = {
         "updated_at": datetime.now().strftime("%Y-%m-%d"),
         "total_posts": len(posts),
         "posts": posts,
     }
-    with open(OUTPUT_FILE, "w", encoding="utf-8") as f:
-        json.dump(output, f, ensure_ascii=False, indent=2)
-
-    print(f"  ✅ {OUTPUT_FILE.relative_to(ROOT)} を更新しました")
+    for site_dir in SITE_DIRS:
+        if not site_dir.exists():
+            print(f"  ⚠️  {site_dir.name}/ がないのでスキップ")
+            continue
+        out_file = site_dir / "data.json"
+        with open(out_file, "w", encoding="utf-8") as f:
+            json.dump(output, f, ensure_ascii=False, indent=2)
+        print(f"  ✅ {out_file.relative_to(ROOT)} を更新")
     print()
 
     # ジャンル別の集計を表示

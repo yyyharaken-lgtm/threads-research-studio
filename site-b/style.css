@@ -1,0 +1,546 @@
+/* ============================================
+   Threadsバズ投稿の教科書 - Editorial Style
+   ============================================ */
+
+* { box-sizing: border-box; margin: 0; padding: 0; }
+
+:root {
+  --bg: #f5f1e8;
+  --bg-2: #fff;
+  --ink: #1a1a1a;
+  --ink-2: #444;
+  --ink-3: #888;
+  --line: #1a1a1a;
+  --accent: #d63b3b;
+  --soft-line: #d4c8b8;
+}
+
+html, body { height: 100%; }
+
+body {
+  font-family: 'Noto Serif JP', 'Inter', serif;
+  background: var(--bg);
+  color: var(--ink);
+  line-height: 1.6;
+  -webkit-font-smoothing: antialiased;
+}
+
+.container {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 32px 40px 0;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+}
+
+/* ============================================
+   ナビゲーション
+   ============================================ */
+
+nav {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding-bottom: 20px;
+  border-bottom: 2px solid var(--ink);
+  margin-bottom: 56px;
+}
+
+.logo {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  font-family: 'Noto Serif JP', serif;
+  font-weight: 900;
+  font-size: 20px;
+  letter-spacing: -0.01em;
+  cursor: pointer;
+  user-select: none;
+}
+
+.logo-dot {
+  display: inline-block;
+  width: 10px;
+  height: 10px;
+  background: var(--accent);
+  border-radius: 50%;
+}
+
+.nav-meta {
+  display: flex;
+  gap: 24px;
+  font-family: 'JetBrains Mono', monospace;
+  font-size: 11px;
+  letter-spacing: 0.12em;
+  color: var(--ink-2);
+  text-transform: uppercase;
+}
+
+/* ============================================
+   ビュー切り替え
+   ============================================ */
+
+.view {
+  display: none;
+  animation: fadeIn 0.4s ease;
+}
+
+.view.active {
+  display: block;
+}
+
+@keyframes fadeIn {
+  from { opacity: 0; transform: translateY(8px); }
+  to { opacity: 1; transform: translateY(0); }
+}
+
+/* ============================================
+   ヒーロー
+   ============================================ */
+
+.hero {
+  display: grid;
+  grid-template-columns: 1fr 380px;
+  gap: 60px;
+  margin-bottom: 64px;
+  border-bottom: 1px solid var(--ink);
+  padding-bottom: 60px;
+}
+
+.issue-tag {
+  font-family: 'JetBrains Mono', monospace;
+  font-size: 11px;
+  letter-spacing: 0.15em;
+  text-transform: uppercase;
+  color: var(--ink-2);
+  margin-bottom: 24px;
+}
+
+.hero h1 {
+  font-family: 'Noto Serif JP', serif;
+  font-size: 96px;
+  font-weight: 900;
+  line-height: 0.95;
+  letter-spacing: -0.04em;
+  color: var(--ink);
+}
+
+.hero h1 em {
+  font-style: italic;
+  color: var(--accent);
+  font-weight: 900;
+}
+
+.hero-right {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-end;
+}
+
+.hero-right p {
+  font-size: 15px;
+  line-height: 1.8;
+  margin-bottom: 24px;
+  color: var(--ink-2);
+}
+
+.hero-stats {
+  border-top: 1px solid var(--ink);
+  padding-top: 24px;
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 20px;
+}
+
+.hs-num {
+  font-family: 'Noto Serif JP', serif;
+  font-size: 56px;
+  font-weight: 900;
+  line-height: 1;
+  letter-spacing: -0.03em;
+}
+
+.hs-lab {
+  font-family: 'JetBrains Mono', monospace;
+  font-size: 10px;
+  text-transform: uppercase;
+  letter-spacing: 0.12em;
+  color: var(--ink-3);
+  margin-top: 8px;
+}
+
+/* ============================================
+   セクション見出し
+   ============================================ */
+
+.section-head {
+  display: flex;
+  align-items: baseline;
+  justify-content: space-between;
+  border-bottom: 2px solid var(--ink);
+  padding-bottom: 14px;
+  margin-bottom: 32px;
+}
+
+.section-head h2 {
+  font-family: 'Noto Serif JP', serif;
+  font-size: 40px;
+  font-weight: 900;
+  letter-spacing: -0.02em;
+}
+
+.section-num {
+  font-family: 'JetBrains Mono', monospace;
+  font-size: 11px;
+  letter-spacing: 0.15em;
+  color: var(--ink-3);
+  text-transform: uppercase;
+}
+
+/* ============================================
+   ジャンルグリッド
+   ============================================ */
+
+.genre-grid {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  gap: 1px;
+  background: var(--ink);
+  border: 1px solid var(--ink);
+}
+
+.genre-card {
+  background: var(--bg);
+  padding: 28px;
+  cursor: pointer;
+  transition: all 0.2s;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  min-height: 200px;
+  position: relative;
+}
+
+.genre-card:hover {
+  background: var(--ink);
+  color: var(--bg);
+}
+
+.genre-card.empty {
+  opacity: 0.4;
+  cursor: not-allowed;
+}
+
+.genre-card.empty:hover {
+  background: var(--bg);
+  color: var(--ink);
+}
+
+.genre-num {
+  font-family: 'JetBrains Mono', monospace;
+  font-size: 10px;
+  letter-spacing: 0.1em;
+  color: var(--ink-3);
+  margin-bottom: 6px;
+}
+
+.genre-card:hover .genre-num {
+  color: var(--ink-3);
+}
+
+.genre-icon {
+  font-size: 36px;
+  margin-bottom: auto;
+}
+
+.genre-name {
+  font-family: 'Noto Serif JP', serif;
+  font-size: 26px;
+  font-weight: 900;
+  letter-spacing: -0.02em;
+  line-height: 1.1;
+  margin-bottom: 6px;
+}
+
+.genre-count {
+  font-family: 'JetBrains Mono', monospace;
+  font-size: 11px;
+  color: var(--ink-3);
+  letter-spacing: 0.05em;
+  margin-top: auto;
+  padding-top: 14px;
+}
+
+.genre-card:hover .genre-count {
+  color: rgba(245, 241, 232, 0.6);
+}
+
+/* ============================================
+   詳細ビュー
+   ============================================ */
+
+.detail-head {
+  margin-bottom: 48px;
+  padding-bottom: 28px;
+  border-bottom: 2px solid var(--ink);
+}
+
+.btn-back {
+  background: none;
+  border: none;
+  color: var(--ink);
+  font-family: 'JetBrains Mono', monospace;
+  font-size: 12px;
+  letter-spacing: 0.08em;
+  cursor: pointer;
+  padding: 0;
+  margin-bottom: 24px;
+  text-transform: uppercase;
+  border-bottom: 1px solid transparent;
+  transition: border-color 0.2s;
+}
+
+.btn-back:hover {
+  border-bottom-color: var(--ink);
+}
+
+.detail-num {
+  font-family: 'JetBrains Mono', monospace;
+  font-size: 11px;
+  letter-spacing: 0.15em;
+  color: var(--ink-3);
+  text-transform: uppercase;
+  margin-bottom: 14px;
+}
+
+.detail-meta h2 {
+  font-family: 'Noto Serif JP', serif;
+  font-size: 64px;
+  font-weight: 900;
+  letter-spacing: -0.03em;
+  line-height: 1;
+  margin-bottom: 8px;
+}
+
+.detail-meta p {
+  font-family: 'JetBrains Mono', monospace;
+  font-size: 12px;
+  color: var(--ink-3);
+  letter-spacing: 0.05em;
+}
+
+/* ============================================
+   投稿リスト（記事風）
+   ============================================ */
+
+.post-list {
+  display: flex;
+  flex-direction: column;
+}
+
+.post-card {
+  padding: 36px 0;
+  border-bottom: 1px solid var(--soft-line);
+  transition: opacity 0.2s;
+}
+
+.post-card:last-child {
+  border-bottom: none;
+}
+
+.post-meta {
+  display: flex;
+  align-items: baseline;
+  gap: 14px;
+  margin-bottom: 16px;
+  flex-wrap: wrap;
+}
+
+.post-num {
+  font-family: 'JetBrains Mono', monospace;
+  font-size: 11px;
+  color: var(--ink-3);
+  letter-spacing: 0.1em;
+}
+
+.post-author {
+  font-family: 'Noto Serif JP', serif;
+  font-weight: 700;
+  font-size: 17px;
+  color: var(--accent);
+  text-decoration: none;
+}
+
+.post-author:hover {
+  text-decoration: underline;
+}
+
+.post-tags {
+  display: flex;
+  gap: 12px;
+  margin-left: auto;
+  align-items: baseline;
+}
+
+.post-tag {
+  font-family: 'JetBrains Mono', monospace;
+  font-size: 11px;
+  color: var(--ink-3);
+  letter-spacing: 0.05em;
+}
+
+.post-tag.likes {
+  color: var(--accent);
+  font-weight: 700;
+}
+
+.post-text {
+  font-size: 16px;
+  line-height: 1.85;
+  color: var(--ink);
+  white-space: pre-wrap;
+  margin-bottom: 20px;
+  word-break: break-word;
+  font-family: 'Noto Serif JP', serif;
+}
+
+.post-actions {
+  display: flex;
+  gap: 24px;
+  font-family: 'JetBrains Mono', monospace;
+  font-size: 11px;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+}
+
+.post-actions a,
+.post-actions button {
+  background: none;
+  border: none;
+  color: var(--ink);
+  cursor: pointer;
+  text-decoration: none;
+  padding: 0;
+  font-family: inherit;
+  font-size: inherit;
+  letter-spacing: inherit;
+  text-transform: inherit;
+  border-bottom: 1px solid var(--ink);
+  transition: color 0.2s, border-color 0.2s;
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+}
+
+.post-actions a:hover,
+.post-actions button:hover {
+  color: var(--accent);
+  border-bottom-color: var(--accent);
+}
+
+.threads-icon-sm {
+  width: 12px;
+  height: 12px;
+  vertical-align: middle;
+}
+
+/* ============================================
+   エラー
+   ============================================ */
+
+.error-panel {
+  text-align: center;
+  padding: 80px 20px;
+  border-top: 2px solid var(--ink);
+  border-bottom: 2px solid var(--ink);
+  margin: 40px 0;
+}
+
+.error-num {
+  font-family: 'JetBrains Mono', monospace;
+  font-size: 12px;
+  letter-spacing: 0.15em;
+  color: var(--accent);
+  margin-bottom: 16px;
+}
+
+.error-panel h2 {
+  font-family: 'Noto Serif JP', serif;
+  font-size: 36px;
+  font-weight: 900;
+  margin-bottom: 16px;
+}
+
+.error-panel p {
+  color: var(--ink-2);
+  margin-bottom: 28px;
+  font-family: 'JetBrains Mono', monospace;
+  font-size: 12px;
+}
+
+/* ============================================
+   フッター
+   ============================================ */
+
+footer {
+  margin-top: auto;
+  padding-top: 60px;
+}
+
+.footer-line {
+  height: 4px;
+  background: var(--ink);
+  margin-bottom: 16px;
+}
+
+.footer-content {
+  display: flex;
+  justify-content: space-between;
+  font-family: 'JetBrains Mono', monospace;
+  font-size: 11px;
+  letter-spacing: 0.1em;
+  color: var(--ink-3);
+  text-transform: uppercase;
+  padding-bottom: 24px;
+}
+
+/* ============================================
+   トースト
+   ============================================ */
+
+.toast {
+  position: fixed;
+  bottom: 30px;
+  left: 50%;
+  transform: translateX(-50%) translateY(100px);
+  padding: 14px 28px;
+  background: var(--ink);
+  color: var(--bg);
+  font-family: 'JetBrains Mono', monospace;
+  font-size: 12px;
+  letter-spacing: 0.05em;
+  z-index: 1000;
+  opacity: 0;
+  transition: all 0.3s ease;
+  pointer-events: none;
+}
+
+.toast.show {
+  opacity: 1;
+  transform: translateX(-50%) translateY(0);
+}
+
+/* ============================================
+   レスポンシブ
+   ============================================ */
+
+@media (max-width: 880px) {
+  .container { padding: 24px 20px 0; }
+  .hero { grid-template-columns: 1fr; gap: 40px; }
+  .hero h1 { font-size: 56px; }
+  .genre-grid { grid-template-columns: repeat(2, 1fr); }
+  .detail-meta h2 { font-size: 40px; }
+  .post-text { font-size: 15px; }
+  .nav-meta { font-size: 10px; gap: 14px; }
+}

@@ -1,0 +1,103 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Threadsバズ投稿の教科書</title>
+<meta name="description" content="Threadsで伸びている投稿を毎日キュレーション">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Noto+Serif+JP:wght@400;700;900&family=Inter:wght@400;500;700;900&family=JetBrains+Mono:wght@400;500;700&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<div class="container">
+
+  <!-- ナビゲーション -->
+  <nav>
+    <div class="logo" data-action="go-home">
+      <span class="logo-dot"></span>
+      <span>THREADS DAILY</span>
+    </div>
+    <div class="nav-meta">
+      <span id="navIssue">Issue #001</span>
+      <span id="navDate">2026.05.07</span>
+    </div>
+  </nav>
+
+  <!-- ===== ビュー1：ホーム ===== -->
+  <section class="view view-home active" data-view="home">
+    <div class="hero">
+      <div class="hero-left">
+        <div class="issue-tag">— Daily Curation</div>
+        <h1>Threads<br><em>バズ投稿</em>の<br>教科書</h1>
+      </div>
+      <div class="hero-right">
+        <p>Threadsで今日伸びている投稿を、9ジャンル横断で毎日キュレーション。投稿のネタと型を雑誌のように楽しめる、新しい形の教科書。</p>
+        <div class="hero-stats">
+          <div>
+            <div class="hs-num" id="totalCount">0</div>
+            <div class="hs-lab">Posts</div>
+          </div>
+          <div>
+            <div class="hs-num" id="genreCount">0</div>
+            <div class="hs-lab">Genres</div>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <div class="section-head">
+      <h2>Genre</h2>
+      <span class="section-num">CHAPTER 01 / SELECT</span>
+    </div>
+
+    <div class="genre-grid" id="genreGrid">
+      <!-- script.js が動的に挿入 -->
+    </div>
+  </section>
+
+  <!-- ===== ビュー2：ジャンル詳細 ===== -->
+  <section class="view view-genre-detail" data-view="genre-detail">
+    <div class="detail-head">
+      <button class="btn-back" data-action="go-home">← Back to Index</button>
+      <div class="detail-meta">
+        <div class="detail-num" id="genreDetailNum">CHAPTER 02</div>
+        <h2 id="genreDetailTitle">ジャンル名</h2>
+        <p id="genreDetailMeta"></p>
+      </div>
+    </div>
+
+    <div class="post-list" id="postList">
+      <!-- script.js が動的に挿入 -->
+    </div>
+  </section>
+
+  <!-- ===== ビュー3：エラー ===== -->
+  <section class="view view-error" data-view="error">
+    <div class="error-panel">
+      <div class="error-num">ERROR / 404</div>
+      <h2>データを読み込めませんでした</h2>
+      <p id="errorMessage"></p>
+      <button class="btn-back" data-action="go-home">← Back to Index</button>
+    </div>
+  </section>
+
+  <!-- フッター -->
+  <footer>
+    <div class="footer-line"></div>
+    <div class="footer-content">
+      <span>THREADS DAILY · Issue #001</span>
+      <span>毎日更新中</span>
+    </div>
+  </footer>
+
+  <!-- トースト通知 -->
+  <div id="toast" class="toast"></div>
+
+</div>
+
+<script src="script.js"></script>
+</body>
+</html>
