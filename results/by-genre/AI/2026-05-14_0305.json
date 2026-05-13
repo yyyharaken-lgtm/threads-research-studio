@@ -1,0 +1,35 @@
+{
+  "mode": "genre",
+  "genre": "AI",
+  "keywords": ["プロンプト", "使い方", "効率化", "Notion AI", "Cursor"],
+  "executed_at": "2026-05-14 03:05",
+  "post_count": 2,
+  "posts": [
+    {
+      "rank": 1,
+      "author_name": "th_no_9_25",
+      "author_url": "https://www.threads.com/@th_no_9_25",
+      "post_text": "ChatGPT、もう使ってない。\n会話するなら「Gemini」\n図解作りなら「Whimsical」\n文章作成なら「Claude」\n資料作るなら「Gamma」\nLP作るなら「STUDIO」\n動画作るなら「Runway」\nまとめるなら「NotebookLM」\n作曲するなら「Suno AI」\nコードなら「Cursor」\n画像作るなら「MidJourney」\nアプリなら「Glide」\nリサーチなら「Perplexity」\n用途に特化したAIを使い分ける時代が来た。",
+      "likes": 377,
+      "comments": 5,
+      "posted_at": "2026-05-07",
+      "post_url": "https://www.threads.com/@th_no_9_25/post/DYBs9LTkgDq",
+      "matched_keyword": "Notion AI,効率化",
+      "account_score": 7,
+      "post_score": 3
+    },
+    {
+      "rank": 2,
+      "author_name": "matsui_kenta",
+      "author_url": "https://www.threads.com/@matsui_kenta",
+      "post_text": "AIって、\n実は\"課金前にここまでできる\"\n👇\n・調べ物 → Perplexity AI\n・会話/壁打ち → ChatGPT\n・文章作成 → Claude\n・資料/スライド → Gamma\nここまでは\"基礎\"。\nさらに👇\n・サイト制作 → Framer\n・動画生成 → Runway\n・画像生成 → Adobe Firefly / Midjourney\n・音声生成 → ElevenLabs\n裏で効率爆上がりするのが👇\n・議事録/文字起こし → Notta / Whisper\n・翻訳 → DeepL\n・情報整理/タスク管理 → Notion AI\n・思考整理 → GitMind\nさらに一歩先👇\n・コード生成 → Cursor / Claude Code\n・音楽制作 → Suno AI\n・全部まとめ役 → Genspark\n正直これ、\n「全部無料でもここまでできるのか」ってレベル。\nでも差がつくのはここ👇\n\"知ってる人\"じゃなくて\n\"毎日10分触ってる人\"\n1日10分 × 30日\n→ 普通に別人レベル\n日本人の上位5%に入るかはさておき、\n\"使う側\"に回るのはほぼ確実",
+      "likes": 124,
+      "comments": 3,
+      "posted_at": "2026-04-23",
+      "post_url": "https://www.threads.com/@matsui_kenta/post/DXdQyp2Hw8o",
+      "matched_keyword": "効率化",
+      "account_score": 7,
+      "post_score": 3
+    }
+  ]
+}
