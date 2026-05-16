@@ -1,0 +1,23 @@
+{
+  "mode": "genre",
+  "genre": "転職",
+  "keywords": ["転職", "退職", "年収", "ブラック企業", "面接", "人間関係"],
+  "executed_at": "2026-05-17 23:15",
+  "post_count": 1,
+  "phase2_note": "未ログイン状態のためフォロー欄取得不可。Phase1で13候補確認。",
+  "posts": [
+    {
+      "rank": 1,
+      "author_name": "hinata_remotework",
+      "author_url": "https://www.threads.com/@hinata_remotework",
+      "post_text": "看護師辞めて、異業種に転職しました。\n結論、年収が80万上がりました。\n（Web系・Webマーケティング系の会社に転職。詳細はnoteに記載。）",
+      "likes": 167,
+      "comments": 21,
+      "posted_at": "2026-04-14",
+      "post_url": "https://www.threads.com/@hinata_remotework/post/DXF7GIXE6X5",
+      "matched_keyword": "年収",
+      "account_score": 6,
+      "post_score": 2
+    }
+  ]
+}

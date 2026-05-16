@@ -1,0 +1,23 @@
+{
+  "mode": "genre",
+  "genre": "AI",
+  "keywords": ["ChatGPT", "プロンプト", "Gemini", "NotebookLM", "効率化", "Claude"],
+  "executed_at": "2026-05-17 23:00",
+  "post_count": 1,
+  "phase2_note": "未ログイン状態のためフォロー欄取得不可。Phase1で13候補確認したが、ハウツー型かつ投稿スコア2点以上は1件のみ。",
+  "posts": [
+    {
+      "rank": 1,
+      "author_name": "hiroki777.ai",
+      "author_url": "https://www.threads.com/@hiroki777.ai",
+      "post_text": "ChatGPTで生成した画像を、Grokで動画化してみました。\n画像も動画もポン出し。\n動画プロンプトは、ChatGPTに作ってもらったものをそのまま使用。（作ってもらった時のプロンプトはリプに置いておきます）\n■プロンプト\n（動画生成用のプロンプトを出力させるために使用したChaGPTへのプロンプトです。）\n添付画像を動画生成AIのImage to Videoで動画にします。文字は固定で、その他の要素を動かしてクリエイティブな動画を生成させるためのプロンプトを出力してください。",
+      "likes": 486,
+      "comments": 16,
+      "posted_at": "2026-04-28",
+      "post_url": "https://www.threads.com/@hiroki777.ai/post/DXrDSK0k-Mb",
+      "matched_keyword": "プロンプト",
+      "account_score": 7,
+      "post_score": 2
+    }
+  ]
+}

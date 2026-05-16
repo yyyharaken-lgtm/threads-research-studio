@@ -1,0 +1,49 @@
+{
+  "mode": "genre",
+  "genre": "美容",
+  "keywords": ["スキンケア", "美容医療", "シミ", "ニキビ", "毛穴", "くすみ", "化粧水", "日焼け止め"],
+  "executed_at": "2026-05-17 22:00",
+  "post_count": 3,
+  "phase2_note": "Phase 2を起点riku_putit_beauty（フォロー中24人）から実行。フォロー欄から chiho_chico を発掘・追加採用。",
+  "posts": [
+    {
+      "rank": 1,
+      "author_name": "riku_putit_beauty",
+      "author_url": "https://www.threads.com/@riku_putit_beauty",
+      "post_text": "1000000回は言ってるけど、下腹部の贅肉は、筋肉不足で内属が下がってるだけ。このストレッチすれば、ぽっこりお腹簡単に消えるよ。\nローラーは必須ね👇\namzn.to/4wyjS… PR",
+      "likes": 542,
+      "comments": 1,
+      "posted_at": "2026-05-16",
+      "post_url": "https://www.threads.com/@riku_putit_beauty/post/DYY4xBQFICt",
+      "matched_keyword": "（プロフィール経由・新規高likes投稿）",
+      "account_score": 8,
+      "post_score": 3
+    },
+    {
+      "rank": 2,
+      "author_name": "riku_putit_beauty",
+      "author_url": "https://www.threads.com/@riku_putit_beauty",
+      "post_text": "皮膚科の先生が教えてくれた。\n「ちふれやハイドロキノン流行ってるけど、安全&安い&即効性ある美白クリームは海外のデメラン一択」っ言われて、使ってみたら、\n美白効果やばすぎて笑った。日本じゃ作れない高濃度なのに刺激ないから全員使って。\namzn.to/4cSDB… PR",
+      "likes": 129,
+      "comments": 2,
+      "posted_at": "2026-05-01",
+      "post_url": "https://www.threads.com/@riku_putit_beauty/post/DXzGC2vjdQS",
+      "matched_keyword": "（プロフィール経由・新規高likes投稿）",
+      "account_score": 8,
+      "post_score": 3
+    },
+    {
+      "rank": 3,
+      "author_name": "chiho_chico",
+      "author_url": "https://www.threads.com/@chiho_chico",
+      "post_text": "小田切ヒロさんの「毛穴消えるわよ〜」で即ポチしたけど、これガチだった。1ヶ月続けたらお肌ツルッツル。毛穴ケアの正解ってこれか、、、\nこれだよ↓↓↓pr\nCLAYGE クレージュ モイスチャライジング クレンジングバーム 95g メイク落とし 保湿ケア 毛穴ケア\namzn.to/4fpPK…",
+      "likes": 493,
+      "comments": 1,
+      "posted_at": "2026-05-16",
+      "post_url": "https://www.threads.com/@chiho_chico/post/DYZF1OYj3ik",
+      "matched_keyword": "（Phase 2: riku_putit_beautyフォロー欄→chiho_chicoから発掘）",
+      "account_score": 6,
+      "post_score": 2
+    }
+  ]
+}

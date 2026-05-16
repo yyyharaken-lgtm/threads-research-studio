@@ -1,0 +1,23 @@
+{
+  "mode": "genre",
+  "genre": "お金",
+  "keywords": ["節約", "貯金", "投資", "手取り", "NISA", "ふるさと納税", "老後資金", "制度", "税金"],
+  "executed_at": "2026-05-17 21:00",
+  "post_count": 1,
+  "phase2_note": "未ログイン状態のためフォロー欄取得不可。25候補をPhase1+検索で評価したが、ハウツー型かつ投稿スコア2点以上の条件を満たすのは1件のみ。",
+  "posts": [
+    {
+      "rank": 1,
+      "author_name": "pon.mama_fp",
+      "author_url": "https://www.threads.com/@pon.mama_fp",
+      "post_text": "育休復帰ママが見落としがちな7つの制度。申請しないと数十万損するものもあるから、復帰後確認して。\n会社から案内してくれる場合は安心ですが、案内がなかったケースもよくありますので、忘れずに確認してくださいね。こういったママが損しないお金の話を発信しているので、アイコンタップして過去投稿も見てみてください🙌",
+      "likes": 858,
+      "comments": 4,
+      "posted_at": "2026-04-15",
+      "post_url": "https://www.threads.com/@pon.mama_fp/post/DXI4az_k5J4",
+      "matched_keyword": "制度",
+      "account_score": 8,
+      "post_score": 3
+    }
+  ]
+}
