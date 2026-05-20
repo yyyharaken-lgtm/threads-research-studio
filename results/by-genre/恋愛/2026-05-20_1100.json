@@ -1,0 +1,88 @@
+{
+  "mode": "genre",
+  "genre": "恋愛",
+  "keywords": ["恋愛", "婚活", "片思い", "失恋", "復縁", "マッチングアプリ", "男性心理", "モテ", "恋愛心理", "結婚", "デート", "恋愛相談"],
+  "executed_at": "2026-05-20 11:00",
+  "post_count": 6,
+  "note": "恋愛ジャンルはThreads上で感情共感・体験談・占い系投稿が支配的で、価値提供型ハウツー投稿が希少。基準を満たす投稿のみ採用した結果6件。",
+  "posts": [
+    {
+      "rank": 1,
+      "author_name": "fumei_joshi",
+      "author_url": "https://www.threads.com/@fumei_joshi",
+      "post_text": "実は愛情が深い人って、見た目や雰囲気で分かります。\nしかもそれは生まれつきじゃなくて、日々の思考や行動で誰でも深められる。\n愛情が深い人に出る代表的なサインが7つあって",
+      "likes": 260,
+      "comments": null,
+      "posted_at": "2026-03-29",
+      "post_url": "https://www.threads.com/@fumei_joshi/post/DWc9XG0j8fw",
+      "matched_keyword": "恋愛",
+      "account_score": 7,
+      "post_score": 2
+    },
+    {
+      "rank": 2,
+      "author_name": "saki_cherish",
+      "author_url": "https://www.threads.com/@saki_cherish",
+      "post_text": "【両片思いの男女にだけ出る濃厚サイン】\n〜もうすでに両思いかもしれない7つの見抜き方〜",
+      "likes": 239,
+      "comments": null,
+      "posted_at": "2026-05-15",
+      "post_url": "https://www.threads.com/@saki_cherish/post/DYTZ9QJiHeS",
+      "matched_keyword": "片思い",
+      "account_score": 10,
+      "post_score": 2
+    },
+    {
+      "rank": 3,
+      "author_name": "ena_29_0",
+      "author_url": "https://www.threads.com/@ena_29_0",
+      "post_text": "友達6人復縁させて分かったこと。\n・執着してる時点で終わりじゃない\n・“我慢して待つだけ”はほぼ動かない\n・時間は復縁してくれない\n・復縁後の男、びっくりするくらい溺愛化する\n・振った側の方が後から引きずる\n・プライド高い男ほど「失った」と気づくのが遅い",
+      "likes": 219,
+      "comments": null,
+      "posted_at": "2026-05-07",
+      "post_url": "https://www.threads.com/@ena_29_0/post/DYBFe1-D4h7",
+      "matched_keyword": "復縁",
+      "account_score": 9,
+      "post_score": 3
+    },
+    {
+      "rank": 4,
+      "author_name": "mkun_renai",
+      "author_url": "https://www.threads.com/@mkun_renai",
+      "post_text": "「2026年、結局どのマッチングアプリがオススメですか？」ってよく聞かれるので各アプリの特徴を解説していくと、",
+      "likes": 218,
+      "comments": null,
+      "posted_at": "2026-05-07",
+      "post_url": "https://www.threads.com/@mkun_renai/post/DYCLcX6mpGy",
+      "matched_keyword": "マッチングアプリ",
+      "account_score": 10,
+      "post_score": 2
+    },
+    {
+      "rank": 5,
+      "author_name": "asuka_love_tech",
+      "author_url": "https://www.threads.com/@asuka_love_tech",
+      "post_text": "モテる女って、顔じゃない。\nこれマジで真理。\n・ふんわり優しい\n・よく笑う\n・ちゃんと話を聞く\n・少しだけ甘え上手\n・清潔感ある\nここまではよくある話。\nでもね、一番惹かれるのは",
+      "likes": 200,
+      "comments": null,
+      "posted_at": "2026-04-18",
+      "post_url": "https://www.threads.com/@asuka_love_tech/post/DXRNSbiAUOr",
+      "matched_keyword": "モテ",
+      "account_score": 9,
+      "post_score": 2
+    },
+    {
+      "rank": 6,
+      "author_name": "yurulianrabo",
+      "author_url": "https://www.threads.com/@yurulianrabo",
+      "post_text": "恋愛経験が少ない男性ほど\n先に知っておくと差がつく\n女性心理ランキング\n10位 返信が遅い=脈なしとは限らない\n9位 会話の内容より話しやすさが残る\n8位 自信",
+      "likes": 118,
+      "comments": null,
+      "posted_at": "2026-03-30",
+      "post_url": "https://www.threads.com/@yurulianrabo/post/DWgEdpzgi_W",
+      "matched_keyword": "男性心理",
+      "account_score": 6,
+      "post_score": 2
+    }
+  ]
+}
