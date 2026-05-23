@@ -1,0 +1,101 @@
+{
+  "mode": "genre",
+  "genre": "転職",
+  "keywords": ["転職", "退職", "キャリア", "年収", "ブラック企業", "残業", "人間関係", "面接", "人事"],
+  "executed_at": "2026-05-21 08:00",
+  "post_count": 7,
+  "note": "転職ジャンルはThreads上で退職報告・年齢/年収の嘆き・職場あるある等の感情共感型投稿が多数を占め、価値提供型ハウツーは比較的少数。基準を満たす投稿のみ採用した結果7件。",
+  "posts": [
+    {
+      "rank": 1,
+      "author_name": "hino_taisyoku",
+      "author_url": "https://www.threads.com/@hino_taisyoku",
+      "post_text": "うおｗ 退職後の健康保険の投稿4万人に見られてるやんwww いいよ。国が隠してる給付金制度は、元ハロワ職員のワイが全部教えたる。これから退職検討してる人は特に、フォローして待っててな。\n\n（関連）退職給付金制度は雇用保険から正式に受け取れる国の制度で、加入年数や離職理由によっては最大250万規模になる人もおる。でも申請しなかったら1円も入ってこんのが現実で、退職日や離職票の理由欄がちょっと違うだけで受給額が数十万単位で変わることもザラ。",
+      "likes": 4516,
+      "comments": null,
+      "posted_at": "2026-05-02",
+      "post_url": "https://www.threads.com/@hino_taisyoku/post/DX1sS91jDcv",
+      "matched_keyword": "退職",
+      "account_score": 10,
+      "post_score": 3
+    },
+    {
+      "rank": 2,
+      "author_name": "mico.tenshoku",
+      "author_url": "https://www.threads.com/@mico.tenshoku",
+      "post_text": "人事をやっていると分かります。\n人が辞める理由は、条件ではありません。\n給料でも、労働時間でもない。\n「この会社にいても自分は大事にされない」\nと感じた瞬間です。",
+      "likes": 3202,
+      "comments": null,
+      "posted_at": "2026-03-29",
+      "post_url": "https://www.threads.com/@mico.tenshoku/post/DWcV-E_ihUJ",
+      "matched_keyword": "人事",
+      "account_score": 10,
+      "post_score": 2
+    },
+    {
+      "rank": 3,
+      "author_name": "mato_tenshoku",
+      "author_url": "https://www.threads.com/@mato_tenshoku",
+      "post_text": "女子が一生食える資格5選\n・看護師（年収600万・40代再就職可）\n・社労士（年収600万・ホワイト職場多）\n・宅建（副業OK・合格率15〜20%）\n・日商簿記2級\n...",
+      "likes": 1104,
+      "comments": null,
+      "posted_at": "2026-05-16",
+      "post_url": "https://www.threads.com/@mato_tenshoku/post/DYWn4ljD5zh",
+      "matched_keyword": "年収",
+      "account_score": 9,
+      "post_score": 3
+    },
+    {
+      "rank": 4,
+      "author_name": "haken.tenshoku",
+      "author_url": "https://www.threads.com/@haken.tenshoku",
+      "post_text": "人事担当者が「お、いいな」と一目置く、メール返信は「書き出し」で決まる。\n低め\n・お世話になっております\n・承知しました\n→形式的で熱量が伝わらない\n普通...",
+      "likes": 449,
+      "comments": null,
+      "posted_at": "2026-04-25",
+      "post_url": "https://www.threads.com/@haken.tenshoku/post/DXjgD9ZijNo",
+      "matched_keyword": "面接",
+      "account_score": 10,
+      "post_score": 3
+    },
+    {
+      "rank": 5,
+      "author_name": "asa_jinji",
+      "author_url": "https://www.threads.com/@asa_jinji",
+      "post_text": "これ秘密にして欲しいんだけど、超ホワイトなのに誰も転職先として見てないのが「私立大学の事務職員」。平均年収734万円、残業代100%支給、転勤ほぼなし、夏季・年末年始休暇あり",
+      "likes": 350,
+      "comments": null,
+      "posted_at": "2026-05-05",
+      "post_url": "https://www.threads.com/@asa_jinji/post/DX8-7P-E8gx",
+      "matched_keyword": "年収",
+      "account_score": 10,
+      "post_score": 3
+    },
+    {
+      "rank": 6,
+      "author_name": "nao_tensyoku",
+      "author_url": "https://www.threads.com/@nao_tensyoku",
+      "post_text": "ホワイト探してるなら公的機関で働け。これマジで秘密にして欲しいんだけど、超ホワイトなのに誰も転職先として考えないのが「国立大学法人事務職員」「独立行政法人スタッフ」「JICA」",
+      "likes": 294,
+      "comments": null,
+      "posted_at": "2026-04-28",
+      "post_url": "https://www.threads.com/@nao_tensyoku/post/DXrCXo4FL1d",
+      "matched_keyword": "ブラック企業",
+      "account_score": 10,
+      "post_score": 3
+    },
+    {
+      "rank": 7,
+      "author_name": "haken.tenshoku",
+      "author_url": "https://www.threads.com/@haken.tenshoku",
+      "post_text": "面接官「最後に何か質問ありますか？」\n求職者「御社の強みは何ですか？」\n面接官「それはHPに書いてあります」\n求職者「いや、直接聞きたいんです」\n面接官「調べた上で...」",
+      "likes": 133,
+      "comments": null,
+      "posted_at": "2026-05-04",
+      "post_url": "https://www.threads.com/@haken.tenshoku/post/DX6nvQAji2Z",
+      "matched_keyword": "面接",
+      "account_score": 10,
+      "post_score": 2
+    }
+  ]
+}
