@@ -1,0 +1,49 @@
+{
+  "mode": "genre",
+  "genre": "健康",
+  "keywords": ["健康", "睡眠", "腸活", "疲労", "不眠", "肩こり", "自律神経", "ストレス"],
+  "executed_at": "2026-05-29 04:38",
+  "post_count": 3,
+  "note": "前日実行済みで枯渇。Phase1キーワード8件は『GW旦那ストレス』共感・更年期/不眠の悩み相談が占有しハウツー0件。Phase2で既知健康アカウント12件(zutsu._.no, sachi_doctor_yoga, totonon40s, yuki_toko0618, rozukurea, pandakanpo, cocobi_kanpo, kounenki_yuko, awakeyogaofficial, tomito_sinrigaku, seitai_tennis4, natsume.up)を巡回。ハードな健康ハウツーは尽きており、自律神経/ストレス系サブカテゴリの養生・メンタルメッセージ型を3件採用（natsume.upの医療業界論はジャンル外で除外）。",
+  "posts": [
+    {
+      "rank": 1,
+      "author_name": "pandakanpo",
+      "author_url": "https://www.threads.com/@pandakanpo",
+      "post_text": "人の評価なんてテキトーですよ。\n良くも悪くも気分で言ってるんですから。\nそんな評価してもらう必要ないです。\n誰のせいでも誰のためでもなく、御自身が納得行く生き方をしてください。",
+      "likes": 235,
+      "comments": 2,
+      "posted_at": "2026-05-28",
+      "post_url": "https://www.threads.com/@pandakanpo/post/DY4FffTkeNn",
+      "matched_keyword": "ストレス",
+      "account_score": 7,
+      "post_score": 2
+    },
+    {
+      "rank": 2,
+      "author_name": "awakeyogaofficial",
+      "author_url": "https://www.threads.com/@awakeyogaofficial",
+      "post_text": "人生半分も過ぎれば若い時と違って自己を整えるだけでものすごくエネルギーを使う。生徒さんと話していると、仕事や家庭に消耗しきって自分を整えるという運動時間が割けない、頭が回らないという人に多く出会う。だからこそ、数分だけでもいいので自分のために時間を使って欲しい〜。",
+      "likes": 165,
+      "comments": null,
+      "posted_at": "2026-04-20",
+      "post_url": "https://www.threads.com/@awakeyogaofficial/post/DXVbVqjEpPo",
+      "matched_keyword": "自律神経",
+      "account_score": 6,
+      "post_score": 2
+    },
+    {
+      "rank": 3,
+      "author_name": "tomito_sinrigaku",
+      "author_url": "https://www.threads.com/@tomito_sinrigaku",
+      "post_text": "やばいやばい、また人の評価、顔色気にして私の人生止まっちまうところだった。考えすぎてしまう時ほど、一歩でも動いた方が案外上手くいくんだよな。",
+      "likes": 108,
+      "comments": null,
+      "posted_at": "2026-05-27",
+      "post_url": "https://www.threads.com/@tomito_sinrigaku/post/DY1tbu9ilJ8",
+      "matched_keyword": "ストレス",
+      "account_score": 6,
+      "post_score": 2
+    }
+  ]
+}

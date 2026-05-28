@@ -1,0 +1,36 @@
+{
+  "mode": "genre",
+  "genre": "育児",
+  "keywords": ["育児", "子育て", "夜泣き", "イヤイヤ期", "寝かしつけ", "離乳食", "保育園", "子ども", "ママ"],
+  "executed_at": "2026-05-29 03:35",
+  "post_count": 2,
+  "note": "育児は前日(2026-05-28)も実行済みで枯渇状態。Phase1キーワード探索9件＋Phase2で既知優良アカウント16件を直接巡回したが、いいね100以上かつ直近2ヶ月以内の新規ハウツー投稿はほぼ尽きており、上位検索結果は共感・日記・質問投稿が占有。明確なハウツー/価値提供型のみ厳選採用（共感バズはパディングせず除外）。",
+  "posts": [
+    {
+      "rank": 1,
+      "author_name": "kure_camp",
+      "author_url": "https://www.threads.com/@kure_camp",
+      "post_text": "離乳食３６５日カレンダーって本おすすめです！\nこれ通りに進められます🤣",
+      "likes": 1433,
+      "comments": 1,
+      "posted_at": "2026-05-23",
+      "post_url": "https://www.threads.com/@kure_camp/post/DYrREHYE9sA",
+      "matched_keyword": "離乳食",
+      "account_score": 5,
+      "post_score": 2
+    },
+    {
+      "rank": 2,
+      "author_name": "miketa_ikuji_neko",
+      "author_url": "https://www.threads.com/@miketa_ikuji_neko",
+      "post_text": "布団をすっぽり覆える『大判使い捨てシーツ』です。\n180×90センチもあるから、子供が寝返りしても吐物を全部キャッチしてくれるんよ。\n汚れたらそのままゴミ袋へポイで終了。\n洗濯ゼロの事実が本当に神です✴️\n西松屋にも似たのがあるけど120×80センチだから、寝返りすると速攻で布団が犠牲になるの😣\nだから、買うなら絶対にアイリスオーヤマのこのサイズが大正解。\n夜中に絶望したくないワンオペの戦友ママは、これ本気で必須アイテムだよ。\n売り切れる前にストックしといて！！！\na.r10.to/h5VsS… PR",
+      "likes": 134,
+      "comments": null,
+      "posted_at": "2026-04-07",
+      "post_url": "https://www.threads.com/@miketa_ikuji_neko/post/DW0_r4VEjqn",
+      "matched_keyword": "寝かしつけ",
+      "account_score": 8,
+      "post_score": 3
+    }
+  ]
+}

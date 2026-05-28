@@ -1,0 +1,49 @@
+{
+  "mode": "genre",
+  "genre": "ダイエット",
+  "keywords": ["ダイエット", "痩せる", "筋トレ", "糖質制限", "16時間断食", "お腹痩せ", "リバウンド", "食事制限"],
+  "executed_at": "2026-05-29 04:48",
+  "post_count": 3,
+  "note": "前日実行済みで枯渇。Phase1キーワード8件は『あと5kg痩せたい』共感投票・痩せた実績報告・リバウンド→アイドル投稿が占有しハウツー0件。Phase2で既知ダイエットアカウント12件(nikudan.fufu_diet, toma_____bodymake, remi_diet_mama, kotsuban_diet, kaedamachan_20kg_diet, sho_diet1, paon_diet, gachio._taisha, ashisaya_20kgdiet, kyasa_diet2, earth.diet, ema_diet_enjoy)を巡回し、具体的な筋トレ/エクササイズ系ハウツーを3件採用。共感投票はパディングせず除外。",
+  "posts": [
+    {
+      "rank": 1,
+      "author_name": "earth.diet",
+      "author_url": "https://www.threads.com/@earth.diet",
+      "post_text": "え…？それはマジでやばいって…！！！！\nこのエクササイズを58歳のママに3カ月前に教えたら−10キロ痩せたんだけど😳😳😳👏👏👏\nちなみにこの一連のエクササイズで太ももやお尻の筋肉をガチガチに効かせるから脂肪はどんどん燃えていくよ！！",
+      "likes": 319,
+      "comments": 4,
+      "posted_at": "2026-05-23",
+      "post_url": "https://www.threads.com/@earth.diet/post/DYslD1uE9eV",
+      "matched_keyword": "痩せる",
+      "account_score": 7,
+      "post_score": 3
+    },
+    {
+      "rank": 2,
+      "author_name": "toma_____bodymake",
+      "author_url": "https://www.threads.com/@toma_____bodymake",
+      "post_text": "ケツ小さくするなら1日5セット！\nまずは数字の5まで☝️",
+      "likes": 241,
+      "comments": 10,
+      "posted_at": "2026-05-27",
+      "post_url": "https://www.threads.com/@toma_____bodymake/post/DY3FtJbgYPE",
+      "matched_keyword": "筋トレ",
+      "account_score": 7,
+      "post_score": 2
+    },
+    {
+      "rank": 3,
+      "author_name": "kyasa_diet2",
+      "author_url": "https://www.threads.com/@kyasa_diet2",
+      "post_text": "有酸素運動はコレ🏋️‍♂️\nGWにオススメすぎるので、ぜひ❤️‍🔥",
+      "likes": 2393,
+      "comments": 16,
+      "posted_at": "2026-05-01",
+      "post_url": "https://www.threads.com/@kyasa_diet2/post/DXzLYj2E5JW",
+      "matched_keyword": "痩せる",
+      "account_score": 7,
+      "post_score": 2
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "mode": "genre",
+  "genre": "お金",
+  "keywords": ["節約", "貯金", "投資", "手取り", "NISA", "ふるさと納税", "老後資金", "制度", "税金"],
+  "executed_at": "2026-05-29 03:42",
+  "post_count": 1,
+  "note": "お金も前日(2026-05-28)実行済みで枯渇。Phase1キーワード9件はいいね数千の上位がすべて税金・年金・貯金への共感/愚痴/質問投稿で占有されハウツーは0件。Phase2で既知優良FP/節約アカウント12件(mii_cookinglog, macochan_money_recipe, kame_manabi, kiyo_money28, daikoku_todai_money, kenbo_fp_sub, taka_okane4000, navi_life10, pon.mama_fp, riripapa_moneyhack, yuu_money0, miyumiyu.tedoriup)を直接巡回し、新規ハウツー1件のみ。共感バズはパディングせず除外。",
+  "posts": [
+    {
+      "rank": 1,
+      "author_name": "mii_cookinglog",
+      "author_url": "https://www.threads.com/@mii_cookinglog",
+      "post_text": "東京で暮らす手取り18万円OLが作る\nほぼ150円弁当",
+      "likes": 268,
+      "comments": 3,
+      "posted_at": "2026-05-26",
+      "post_url": "https://www.threads.com/@mii_cookinglog/post/DYy72tqlDzz",
+      "matched_keyword": "節約",
+      "account_score": 7,
+      "post_score": 2
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "mode": "genre",
+  "genre": "美容",
+  "keywords": ["スキンケア", "美容医療", "シミ", "ニキビ", "毛穴", "くすみ", "化粧水", "日焼け止め"],
+  "executed_at": "2026-05-29 03:50",
+  "post_count": 2,
+  "note": "Phase1キーワード8件＋Phase2で既知美容アカウント12件(riku_putit_beauty, mayu.biyou.mama, tsuyami_biyou, maiyan_faceline, biyou_yosei, tamago.beauty, uru_biyou, shinosan_beauty, lin_biyou_ ほか)を巡回。上位検索は『おすすめ教えて』系の質問投稿が大半でハウツーは僅少。明確な行動指針/商品レビューのみ採用。",
+  "posts": [
+    {
+      "rank": 1,
+      "author_name": "tamago.beauty",
+      "author_url": "https://www.threads.com/@tamago.beauty",
+      "post_text": "まず1キロでいいから痩せろ。断食と暴食をやめろ。無理な糖質制限も脂質制限もやめろ。本当に行きたい美容室に行け。裸眼が盛れないなら自然なカラコンに変えろ。髪色は顔がくすまない色にしろ。ベースメイクを雑にするな。自己否定を口に出すな。言い訳する前に調べて動け。努力を笑う人から静かに離れろ。全部変えようとするな。効く順番で変えろ。私との約束だ。",
+      "likes": 141,
+      "comments": 1,
+      "posted_at": "2026-05-28",
+      "post_url": "https://www.threads.com/@tamago.beauty/post/DY4ht6Wih0_",
+      "matched_keyword": "くすみ",
+      "account_score": 8,
+      "post_score": 3
+    },
+    {
+      "rank": 2,
+      "author_name": "k_r_i_s_2525",
+      "author_url": "https://www.threads.com/@k_r_i_s_2525",
+      "post_text": "目元のくすみやクマが気になる方へ✨\nマキアージュのドラマティックアイカラーいいよ🫶ドラックストアで買ったんだけど、店頭のお姉さんに…この商品よく在庫聞かれるんですけどバズってるんですかって聞かれた😂",
+      "likes": 410,
+      "comments": 8,
+      "posted_at": "2026-04-06",
+      "post_url": "https://www.threads.com/@k_r_i_s_2525/post/DWyGOp2E98R",
+      "matched_keyword": "くすみ",
+      "account_score": 5,
+      "post_score": 2
+    }
+  ]
+}

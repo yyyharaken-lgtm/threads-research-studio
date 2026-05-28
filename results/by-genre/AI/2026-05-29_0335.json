@@ -1,0 +1,23 @@
+{
+  "mode": "genre",
+  "genre": "AI",
+  "keywords": ["AI", "ChatGPT", "Claude", "プロンプト", "効率化", "自動化", "Gemini", "NotebookLM"],
+  "executed_at": "2026-05-29 04:18",
+  "post_count": 1,
+  "note": "AIも前日実行済みで枯渇。Phase1キーワード8件は上位が英語/中国語のAI投稿（beyondmeat, mavissfff等の海外言語）と日本語の質問投稿で占有されハウツー0件。Phase2で既知AIアカウント12件(akanee_ai, kanae_ai_creator777, aito.ai__, shun_gpt, suke_ai_.chatgpt, gitmindjapan, aojisosan, hiroki777.ai, furio_gpt, yuki_ai_gpt0909, ai.perm, ai_lime513)を巡回し新規ハウツー1件。",
+  "posts": [
+    {
+      "rank": 1,
+      "author_name": "hiroki777.ai",
+      "author_url": "https://www.threads.com/@hiroki777.ai",
+      "post_text": "人物写真を1枚アップロードしたら、\n国内20ヶ所を旅したような動画ができました。\n使ったのは、\nGemini Omni Flash。\nもしかしたら、\n皆さんの都道府県も入っているかもしれません。\n使用したプロンプトはリプに置いておきます。\n（プロンプト内に地域名も入っています。）",
+      "likes": 104,
+      "comments": 12,
+      "posted_at": "2026-05-27",
+      "post_url": "https://www.threads.com/@hiroki777.ai/post/DY1xIW7E4sw",
+      "matched_keyword": "Gemini",
+      "account_score": 7,
+      "post_score": 3
+    }
+  ]
+}
