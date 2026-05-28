@@ -1,0 +1,62 @@
+{
+  "mode": "genre",
+  "genre": "お金",
+  "keywords": ["節約", "貯金", "投資", "手取り", "NISA", "ふるさと納税", "老後資金", "制度", "税金"],
+  "executed_at": "2026-05-28 02:55",
+  "post_count": 4,
+  "note": "Phase1上位検索(ふるさと納税)は2025年の農家バズや質問投稿が中心で採用ゼロ。採用は全てPhase2(既知優良アカウント巡回)由来。12アカウント巡回。多くは新規投稿が100いいね未達(miyumiyu退職特例54、kiyo_money28お金優先順位93、navi_life10介護給付金11等、good-howtoだが枯渇気味)。条件合致4件を採用。",
+  "posts": [
+    {
+      "rank": 1,
+      "author_name": "mii_cookinglog",
+      "author_url": "https://www.threads.com/@mii_cookinglog",
+      "post_text": "東京で暮らす手取り18万円OLが作る\nほぼ150円弁当",
+      "likes": 833,
+      "comments": 24,
+      "posted_at": "2026-05-22",
+      "post_url": "https://www.threads.com/@mii_cookinglog/post/DYoo56tlIjJ",
+      "matched_keyword": "節約",
+      "account_score": 7,
+      "post_score": 2
+    },
+    {
+      "rank": 2,
+      "author_name": "taka_okane4000",
+      "author_url": "https://www.threads.com/@taka_okane4000",
+      "post_text": "あのーーー、何回も言うけど、マイホーム買ったときの『不動産取得税還付』知らないのはホント勿体無い。家や土地を買うと一度だけかかる税金ですが、申請すれば数十万単位で戻ってくる可能性あるのに申請漏れしている人がかなりいる事実😩 しかも申告期限があり。まず確認すべきことは↓",
+      "likes": 199,
+      "comments": 1,
+      "posted_at": "2026-05-27",
+      "post_url": "https://www.threads.com/@taka_okane4000/post/DY1oZPcDKqQ",
+      "matched_keyword": "税金",
+      "account_score": 8,
+      "post_score": 3
+    },
+    {
+      "rank": 3,
+      "author_name": "mii_cookinglog",
+      "author_url": "https://www.threads.com/@mii_cookinglog",
+      "post_text": "東京で暮らす手取り18万円OLが作る\n週1ごほうび弁当",
+      "likes": 152,
+      "comments": 4,
+      "posted_at": "2026-05-24",
+      "post_url": "https://www.threads.com/@mii_cookinglog/post/DYtyrxpFFVI",
+      "matched_keyword": "節約",
+      "account_score": 7,
+      "post_score": 2
+    },
+    {
+      "rank": 4,
+      "author_name": "macochan_money_recipe",
+      "author_url": "https://www.threads.com/@macochan_money_recipe",
+      "post_text": "勘がいい人は気づいてる、\n「給料は上がっているのに生活が苦しい」\nのは気のせいではない、\n日本の闇、暴露されましたね。\n今起きてる【隠れ増税】、",
+      "likes": 119,
+      "comments": 4,
+      "posted_at": "2026-05-26",
+      "post_url": "https://www.threads.com/@macochan_money_recipe/post/DYxvuD_EtMR",
+      "matched_keyword": "税金",
+      "account_score": 8,
+      "post_score": 3
+    }
+  ]
+}

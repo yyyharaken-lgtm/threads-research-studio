@@ -1,0 +1,75 @@
+{
+  "mode": "genre",
+  "genre": "占い",
+  "keywords": ["開運", "運気", "スピリチュアル", "金運", "恋愛運", "一粒万倍日", "神社", "引き寄せ"],
+  "executed_at": "2026-05-26 06:25",
+  "post_count": 5,
+  "note": "占い系は投稿が数時間〜数日で数百〜数千いいねに到達するため、前回(05-25)実行後でも新規が複数存在。Phase2で@athlete_uranai_reiri/@haku_comm/@amane_do_から新規採用。@nagato_uranai(最新05/08・低エンゲージ)、@reishi_kai(最新は固定リードマグネットDXaf旧投稿)、@tundere_oneco_uranai(最新2日前22いいね)は新規なし。",
+  "posts": [
+    {
+      "rank": 1,
+      "author_name": "haku_comm",
+      "author_url": "https://www.threads.com/@haku_comm",
+      "post_text": "5月に臨時収入がくる\n5月に臨時収入がくる\nほんとうに、5月に臨時収入がドバ----ッときそうです🪶",
+      "likes": 3634,
+      "comments": 4,
+      "posted_at": "2026-04-28",
+      "post_url": "https://www.threads.com/@haku_comm/post/DXrEIwNjqT5",
+      "matched_keyword": "金運",
+      "account_score": 9,
+      "post_score": 3
+    },
+    {
+      "rank": 2,
+      "author_name": "athlete_uranai_reiri",
+      "author_url": "https://www.threads.com/@athlete_uranai_reiri",
+      "post_text": "悪いんだけど…\nこの投稿はマジで引き寄せの強い人にしか届いてないと思うよ。\nそんな、あんたには5月中に\n50万くらいの臨時収入がドカンと入ってくるからさ。\n信じなくても全然いいよ。\nただ、私の言葉だけは頭の片隅に置いときなよ🐎☁️",
+      "likes": 3333,
+      "comments": 30,
+      "posted_at": "2026-05-25",
+      "post_url": "https://www.threads.com/@athlete_uranai_reiri/post/DYv8XwkCDqx",
+      "matched_keyword": "引き寄せ",
+      "account_score": 9,
+      "post_score": 3
+    },
+    {
+      "rank": 3,
+      "author_name": "haku_comm",
+      "author_url": "https://www.threads.com/@haku_comm",
+      "post_text": "ごめん。\n素通りした人以外。\n\n片手では収まらないくらいの臨時収入の流れが、\n近いうち入ってくる。\n大切にしてね🪶",
+      "likes": 473,
+      "comments": null,
+      "posted_at": "2026-04-28",
+      "post_url": "https://www.threads.com/@haku_comm/post/DXrR4pTD3LN",
+      "matched_keyword": "金運",
+      "account_score": 9,
+      "post_score": 3
+    },
+    {
+      "rank": 4,
+      "author_name": "athlete_uranai_reiri",
+      "author_url": "https://www.threads.com/@athlete_uranai_reiri",
+      "post_text": "5/26 か 5/27に「いいね」できたあんた\n6月から\n運気爆上がりするよ🐎☁️",
+      "likes": 462,
+      "comments": null,
+      "posted_at": "2026-05-26",
+      "post_url": "https://www.threads.com/@athlete_uranai_reiri/post/DYxzf3FEnJX",
+      "matched_keyword": "運気",
+      "account_score": 9,
+      "post_score": 3
+    },
+    {
+      "rank": 5,
+      "author_name": "amane_do_",
+      "author_url": "https://www.threads.com/@amane_do_",
+      "post_text": "マツコが言ってた。「ずっと黙って耐えてきた人って我慢強いと思われがちだけど、言える場所がなかっただけなのよね」。これ刺さった人ちゃんと聞いて。弱音を吐かないのは強いからじゃない。これには理由があって、",
+      "likes": 174,
+      "comments": 2,
+      "posted_at": "2026-05-26",
+      "post_url": "https://www.threads.com/@amane_do_/post/DYxxKXtiZRi",
+      "matched_keyword": "スピリチュアル",
+      "account_score": 8,
+      "post_score": 3
+    }
+  ]
+}

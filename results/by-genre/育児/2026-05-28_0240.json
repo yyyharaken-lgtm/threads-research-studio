@@ -1,0 +1,49 @@
+{
+  "mode": "genre",
+  "genre": "育児",
+  "keywords": ["育児", "子育て", "夜泣き", "イヤイヤ期", "寝かしつけ", "離乳食", "保育園", "子ども", "ママ"],
+  "executed_at": "2026-05-28 02:40",
+  "post_count": 3,
+  "note": "Phase1キーワード上位検索は日記・夫婦相談系が中心でハウツー採用ゼロ。採用は全てPhase2(既知優良アカウント巡回)由来。前回05-26より2日のため新規が少なく、既知アカウントの大半は新規投稿が100いいね未達(toshigomama2415の熱中症対策78、matsu_josanshiの授乳73等)。15アカウント巡回し条件合致3件を採用。",
+  "posts": [
+    {
+      "rank": 1,
+      "author_name": "mama_no_hack",
+      "author_url": "https://www.threads.com/@mama_no_hack",
+      "post_text": "ほんっっっと、いい加減にしてほしい。\n「はなかめるゾウ」やばすぎ。\nみんな気をつけた方がいいよ？だって、",
+      "likes": 3544,
+      "comments": 42,
+      "posted_at": "2026-05-09",
+      "post_url": "https://www.threads.com/@mama_no_hack/post/DYF4efLDZLR",
+      "matched_keyword": "子ども",
+      "account_score": 8,
+      "post_score": 3
+    },
+    {
+      "rank": 2,
+      "author_name": "miwa_noiku",
+      "author_url": "https://www.threads.com/@miwa_noiku",
+      "post_text": "ちょっとエグいけど聞いて。\nスマホが元凶の「ブレインロット(脳腐敗)」\n梅雨の前のこの時期だからこそ知っててほしい。\n先生として30年近く現場でたくさん親子を見てきた私が強く感じた\"子どもをスマホ依存にさせない親\"の共通点10選が、",
+      "likes": 213,
+      "comments": 3,
+      "posted_at": "2026-05-27",
+      "post_url": "https://www.threads.com/@miwa_noiku/post/DY0TyaREnXd",
+      "matched_keyword": "子育て",
+      "account_score": 8,
+      "post_score": 3
+    },
+    {
+      "rank": 3,
+      "author_name": "miketa_ikuji_neko",
+      "author_url": "https://www.threads.com/@miketa_ikuji_neko",
+      "post_text": "​全ママ、聞いて…\n保育園の洗礼を浴び嘔吐した夜は、ぜっっっっっったいにそのまま布団に寝かさないで！！！\n​夜中の洗濯機フル回転と、翌朝の白目起床確定を回避するために、これだけは準備してほしいの！！",
+      "likes": 173,
+      "comments": 1,
+      "posted_at": "2026-04-07",
+      "post_url": "https://www.threads.com/@miketa_ikuji_neko/post/DW0_r40kop5",
+      "matched_keyword": "保育園",
+      "account_score": 7,
+      "post_score": 3
+    }
+  ]
+}

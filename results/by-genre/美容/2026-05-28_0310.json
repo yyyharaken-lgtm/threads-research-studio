@@ -1,0 +1,49 @@
+{
+  "mode": "genre",
+  "genre": "美容",
+  "keywords": ["スキンケア", "美容医療", "シミ", "ニキビ", "毛穴", "くすみ", "化粧水", "日焼け止め"],
+  "executed_at": "2026-05-28 03:10",
+  "post_count": 3,
+  "note": "既知トップ2アカウント(riku_putit_beauty・biyou_yosei)が消滅。美容はアカウント入替が激しいためPhase1(毛穴)も併用。Phase1で蒸しタオル系の伸び投稿を多数確認(tae.kanade2272/nemonemo337/tae系の重複多数)。重複を避け独自テーマ3件を採用。mayu/maiyanの大型は既取得。",
+  "posts": [
+    {
+      "rank": 1,
+      "author_name": "tae.kanade",
+      "author_url": "https://www.threads.com/@tae.kanade",
+      "post_text": "蒸しタオルを毎晩続けたら、4週間で肌が別人になった。お金ゼロ。今夜からできる。間違えると逆効果だから、やり方だけ見ていって。",
+      "likes": 2272,
+      "comments": 25,
+      "posted_at": "2026-05-10",
+      "post_url": "https://www.threads.com/@tae.kanade/post/DYJ5iPrktcM",
+      "matched_keyword": "スキンケア",
+      "account_score": 8,
+      "post_score": 3
+    },
+    {
+      "rank": 2,
+      "author_name": "tamago.beauty",
+      "author_url": "https://www.threads.com/@tamago.beauty",
+      "post_text": "私はモデルだと思って生活すること。モデルなら飲み物は基本、水。甘い飲み物で血糖値を乱さない。朝はストレッチで体を起こす。姿勢と呼吸が整うと顔まで変わる。食事は少なくするんじゃなく荒れない食べ方をする。先にタンパク質と野菜、糖は最後。日焼け止めはケチらない。未来のシミとたるみを今日止める。歩く時は口角を上げる。顔は感情の履歴書だから。脚はむくみを溜めない。座りっぱなしをやめてふくらはぎを動かす。私はモデル。それっぽい美容じゃなくモデルとして振る舞う。脳みそはちょろい。",
+      "likes": 207,
+      "comments": 1,
+      "posted_at": "2026-05-27",
+      "post_url": "https://www.threads.com/@tamago.beauty/post/DY188ojip-l",
+      "matched_keyword": "日焼け止め",
+      "account_score": 7,
+      "post_score": 3
+    },
+    {
+      "rank": 3,
+      "author_name": "mayu.biyou.mama",
+      "author_url": "https://www.threads.com/@mayu.biyou.mama",
+      "post_text": "私が29⇨35歳でフェイルラインのもたつきがなくなった方法アップしてます♡\n1分のケアだけでも変わります♡",
+      "likes": 202,
+      "comments": 6,
+      "posted_at": "2026-05-12",
+      "post_url": "https://www.threads.com/@mayu.biyou.mama/post/DYN6L5jE7eO",
+      "matched_keyword": "スキンケア",
+      "account_score": 8,
+      "post_score": 2
+    }
+  ]
+}
