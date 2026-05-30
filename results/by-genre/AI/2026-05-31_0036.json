@@ -1,0 +1,35 @@
+{
+  "mode": "genre",
+  "genre": "AI",
+  "keywords": ["AI", "ChatGPT", "Claude", "プロンプト", "効率化", "自動化", "Gemini", "NotebookLM"],
+  "executed_at": "2026-05-31 00:36",
+  "post_count": 2,
+  "posts": [
+    {
+      "rank": 1,
+      "author_name": "hiroki777.ai",
+      "author_url": "https://www.threads.com/@hiroki777.ai",
+      "post_text": "Googleマップのスクショを渡したら、大阪城のドローン撮影っぽい動画ができました。\nただ、動画の内容は正確ではなさそうです。\nGemini Omni FlashがGoogleのモデルだから、地図情報との相性がいいのかなと思いつつ…\nプロンプトは一文のみ。スクショと併せてリプに置いておきます。\n■プロンプト\n参照画像の赤い矢印のルートでドローンを飛ばした映像にしてください。\n※地図のスクショ後に赤い矢印をつけたものをアップロードしました。",
+      "likes": 197,
+      "comments": 21,
+      "posted_at": "2026-05-29",
+      "post_url": "https://www.threads.com/@hiroki777.ai/post/DY4X28cE_Hx",
+      "matched_keyword": "Gemini",
+      "account_score": 8,
+      "post_score": 3
+    },
+    {
+      "rank": 2,
+      "author_name": "k_arisa_15",
+      "author_url": "https://www.threads.com/@k_arisa_15",
+      "post_text": "AIで\"うちの子BONBON DROPシール\"作れた…！🥹🩷\n✔ ボンドロのぷっくり感\n✔ 猫の顔や柄をかなり忠実再現\n✔ BONBON DROP seal mini風デザイン\nなんと、愛猫の写真1枚で作れる！かなり細かくレイアウト指定してるよ💦頑張ったから作れたら見せてほしいな🤤\n（※ChatGPT画像生成用の詳細プロンプト全文を2投稿目に公開。日本の実在ボンボンドロップシール風パッケージを、添付した猫写真から忠実再現するための質感・レイアウト・座標指定込みのプロンプト）",
+      "likes": 109,
+      "comments": 14,
+      "posted_at": "2026-05-18",
+      "post_url": "https://www.threads.com/@k_arisa_15/post/DYe5sH6EXsj",
+      "matched_keyword": "プロンプト",
+      "account_score": 7,
+      "post_score": 3
+    }
+  ]
+}
