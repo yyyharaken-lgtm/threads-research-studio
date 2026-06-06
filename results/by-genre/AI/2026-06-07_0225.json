@@ -1,0 +1,61 @@
+{
+  "mode": "genre",
+  "genre": "AI",
+  "keywords": ["AI", "ChatGPT", "Claude", "プロンプト", "効率化", "自動化", "Gemini", "NotebookLM"],
+  "executed_at": "2026-06-07 02:25",
+  "post_count": 4,
+  "posts": [
+    {
+      "rank": 1,
+      "author_name": "yuki_ai_gpt0909",
+      "author_url": "https://www.threads.com/@yuki_ai_gpt0909",
+      "post_text": "女性は一度これやってみて。\nChatGPTに写真を1枚送るだけで、\n・骨格診断\n・パーソナルカラー診断\n・コントロールカラー診断\n・顔タイプ診断\nここまで一気に見てくれます。\nしかも「なんとなく似合う」じゃなくて、理由つき。\n似合う色、髪型、服の方向性まで出るので、服選びやメイクの迷いがかなり減ります。\n僕もやってみて、「ここまで分かるの？」ってなりました。\nやり方は簡単です↓\n【手順】\n① 全身写真を1枚撮る\n② 下のプロンプトをそのままコピペ\n③ 写真を添付して送信\nこれだけ。\n【プロンプト】\nあなたは《プロのイメージコンサルタント》です。顔タイプ診断・骨格診断・パーソナルカラー診断の専門資格を持っています。添付の写真をもとに、次の4つをモデル向けレポート水準で診断してください。辛口OK。具体例（ブランド名・色コード・アイテム名）を挙げ、数値や表で可視化してください。\n【骨格診断】・タイプ・根拠ポイント3つ・似合うシルエット／素材・NG例\n【パーソナルカラー診断】・シーズン・ベストトーン・配色提案（色名＋色コード）\n【コントロールカラー診断】・肌傾向・悩み別おすすめカラー・推奨アイテム例\n【顔タイプ診断】・タイプ",
+      "likes": 249,
+      "comments": 3,
+      "posted_at": "2026-06-06",
+      "post_url": "https://www.threads.com/@yuki_ai_gpt0909/post/DZPfHHEkUyj",
+      "matched_keyword": "ChatGPT",
+      "account_score": 8,
+      "post_score": 3
+    },
+    {
+      "rank": 2,
+      "author_name": "yuki_ai_gpt0909",
+      "author_url": "https://www.threads.com/@yuki_ai_gpt0909",
+      "post_text": "まだChatGPTに「あなたは〇〇の専門家です」って指示してるの？\nそれ、もう時代遅れです。\nこれだと・レベル感が合わない・欲しい深さで返ってこない・結局、使えない回答になる\nプロっぽい人は、「役割」じゃなく「条件」を渡してます。\n↓コピペで使える最強テンプレ\n【回答の精度が一気に上がるプロンプト】\n〇〇について質問します。以下の条件で回答してください。\n① 私のレベルは【初心者 / 中級者 / 上級者】\n② 回答の目的は【実践で使う / 理解を深める / 問題解決】\n③ 知りたいのは【理論 / 具体的な方法 / 注意点】\n④ 回答の長さは【簡潔に / 詳しく / 段階的に】\n⑤ 専門用語は【使わない / 解説付きで使う / 普通に使う】\nこの条件に沿って、的確かつ実用的に回答してください。\nChatGPTは「どんな立場か」より「どう答えるべきか」を渡した方が賢くなります。レベル・目的・深さを指定するだけで、“それっぽい回答”が「そのまま使える回答」に変わります。「あなたは専門家です」は卒業。条件を渡した人から、ChatGPTを使いこなせる側になります。",
+      "likes": 230,
+      "comments": 3,
+      "posted_at": "2026-06-06",
+      "post_url": "https://www.threads.com/@yuki_ai_gpt0909/post/DZOoPa0kbAW",
+      "matched_keyword": "プロンプト",
+      "account_score": 8,
+      "post_score": 3
+    },
+    {
+      "rank": 3,
+      "author_name": "genmaisan",
+      "author_url": "https://www.threads.com/@genmaisan",
+      "post_text": "本当にﾅｲｼｮにしてください。\nChatGPT画像生成やってみたい人はこれ👨‍🦲",
+      "likes": 319,
+      "comments": 23,
+      "posted_at": "2026-05-27",
+      "post_url": "https://www.threads.com/@genmaisan/post/DY1v0nkjMjE",
+      "matched_keyword": "ChatGPT",
+      "account_score": 7,
+      "post_score": 2
+    },
+    {
+      "rank": 4,
+      "author_name": "shunpei_ai2000",
+      "author_url": "https://www.threads.com/@shunpei_ai2000",
+      "post_text": "【25歳AI起業家の会社の組織図】\nClaude codeと僕で毎日24時間フル回転です！\n社長（僕）の下にこのくらいのメンバー（AI）がいます！\nこの詳しい作り方をYouTubeで解説するので是非お楽しみに！\n1人社長や少数精鋭が輝く時代が来る！\nこれを是非参考にしてください",
+      "likes": 118,
+      "comments": null,
+      "posted_at": "2026-05-06",
+      "post_url": "https://www.threads.com/@shunpei_ai2000/post/DX_FxMEEcFk",
+      "matched_keyword": "Claude",
+      "account_score": 7,
+      "post_score": 2
+    }
+  ]
+}
