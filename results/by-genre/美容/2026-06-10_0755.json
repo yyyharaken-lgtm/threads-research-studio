@@ -1,0 +1,74 @@
+{
+  "mode": "genre",
+  "genre": "美容",
+  "keywords": ["スキンケア", "シミ", "シワ", "美白", "ストレッチ"],
+  "executed_at": "2026-06-10 07:55",
+  "post_count": 5,
+  "posts": [
+    {
+      "rank": 1,
+      "author_name": "lin_biyou_",
+      "author_url": "https://www.threads.com/@lin_biyou_",
+      "post_text": "スレッズ本当にありがとう……！これすごかった！ちふれの薬用美白クリームなんだけど、「シミが目立たなくなるよ」って投稿見てすぐ買いに行って使ったら、",
+      "likes": 673,
+      "comments": 23,
+      "posted_at": "2026-06-06",
+      "post_url": "https://www.threads.com/@lin_biyou_/post/DZPAw7CmvPa",
+      "matched_keyword": "シミ",
+      "account_score": 7,
+      "post_score": 2
+    },
+    {
+      "rank": 2,
+      "author_name": "mayu_beauty68",
+      "author_url": "https://www.threads.com/@mayu_beauty68",
+      "post_text": "今年こそ痩せたい人へ。5日でいいから毎日半身浴してみて、1分でいいからストレッチして、出来るだけ睡眠時間を確保する事、お腹が空いてないなら惰性で食べない事、姿勢はピンと、下腹部に力入れて生活したらすぐ痩せる。5日頑張れる人はそのまま習慣化しちゃおう！大丈夫、私を信じて。絶対痩せれる",
+      "likes": 482,
+      "comments": 29,
+      "posted_at": "2026-06-04",
+      "post_url": "https://www.threads.com/@mayu_beauty68/post/DZKi3cnkcvX",
+      "matched_keyword": "ストレッチ",
+      "account_score": 7,
+      "post_score": 2
+    },
+    {
+      "rank": 3,
+      "author_name": "mayu.biyou.mama",
+      "author_url": "https://www.threads.com/@mayu.biyou.mama",
+      "post_text": "おでこのしわは頭と目のアプローチが重要です♡ パソコンやスマートフォンの目の疲れにも是非✊✨",
+      "likes": 244,
+      "comments": 6,
+      "posted_at": "2026-06-07",
+      "post_url": "https://www.threads.com/@mayu.biyou.mama/post/DZRZeMFjDup",
+      "matched_keyword": "シワ",
+      "account_score": 8,
+      "post_score": 2
+    },
+    {
+      "rank": 4,
+      "author_name": "mayu_beauty68",
+      "author_url": "https://www.threads.com/@mayu_beauty68",
+      "post_text": "太もも丸太系女子へ‼️ バチクソに効く最強ストレッチです、たった3分で細くなるなんてやらない理由ない。ケータイ見ながらポテチ食べないでこれやって。",
+      "likes": 195,
+      "comments": 19,
+      "posted_at": "2026-06-02",
+      "post_url": "https://www.threads.com/@mayu_beauty68/post/DZFeFV4mFyM",
+      "matched_keyword": "ストレッチ",
+      "account_score": 7,
+      "post_score": 2
+    },
+    {
+      "rank": 5,
+      "author_name": "mayu_beauty68",
+      "author_url": "https://www.threads.com/@mayu_beauty68",
+      "post_text": "\"保存推奨\" 花嫁様＋似合わせヘアアレンジ🪄︎︎◝✩✍️",
+      "likes": 165,
+      "comments": 23,
+      "posted_at": "2026-06-01",
+      "post_url": "https://www.threads.com/@mayu_beauty68/post/DZCs6cFmA5Q",
+      "matched_keyword": "スキンケア",
+      "account_score": 7,
+      "post_score": 2
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "mode": "genre",
+  "genre": "健康",
+  "keywords": ["健康", "睡眠", "腸活", "自律神経"],
+  "executed_at": "2026-06-10 08:50",
+  "post_count": 2,
+  "note": "中3日で健康既知アカウント枯渇。zutsu/kounenki_yuko/yuki_toko等のフレッシュ投稿は軒並み100未満。採用2件。",
+  "posts": [
+    {
+      "rank": 1,
+      "author_name": "sachi_doctor_yoga",
+      "author_url": "https://www.threads.com/@sachi_doctor_yoga",
+      "post_text": "消化器内科医27年やってて、まだ、ヨーグルト食べたら腸内環境良くなると思って毎日食べてる人が多いことに驚く！ほんとに大事なのは、ビフィズス菌や乳酸菌などの菌を入れることじゃなくて、\n\nみんなが持ってる腸内細菌は、それぞれ違うよね。なのにみんな同じ菌を入れて良くなると思う？それなら自分の持ってる菌を育てる方が早いよね。詳しく説明してみたので、よかったら参考にしてみてね。",
+      "likes": 344,
+      "comments": 15,
+      "posted_at": "2026-06-06",
+      "post_url": "https://www.threads.com/@sachi_doctor_yoga/post/DZQqqahCT3_",
+      "matched_keyword": "腸活",
+      "account_score": 7,
+      "post_score": 3
+    },
+    {
+      "rank": 2,
+      "author_name": "pandakanpo",
+      "author_url": "https://www.threads.com/@pandakanpo",
+      "post_text": "【優しくなれないときは、早く寝る】\n10分でも早く寝ましょう。人に気をつかえる様になるには、体内に気が十分にあることが大事。疲労時は気を使えなくて当たり前。中医学で睡眠は、何時間寝たかよりも何時に寝るか。日が沈んだら寝るぐらいの感覚で。とにかく昨日よりも10分早く寝るの精神を大事に。",
+      "likes": 174,
+      "comments": 5,
+      "posted_at": "2026-06-09",
+      "post_url": "https://www.threads.com/@pandakanpo/post/DZW-hjZkXQz",
+      "matched_keyword": "睡眠",
+      "account_score": 7,
+      "post_score": 3
+    }
+  ]
+}
