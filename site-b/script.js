@@ -72,20 +72,18 @@ function renderHome() {
   const data = state.data;
   const posts = data.posts || [];
 
-  $('#totalCount').textContent = posts.length;
-
   const genreCounts = {};
   posts.forEach(p => {
     genreCounts[p.genre] = (genreCounts[p.genre] || 0) + 1;
   });
 
-  const activeGenreCount = Object.keys(genreCounts).length;
-  $('#genreCount').textContent = activeGenreCount;
-
-  // 日付をナビに反映
+  // 日付をナビとヒーローに反映
   if (data.updated_at) {
     const dateStr = data.updated_at.replace(/-/g, '.');
-    $('#navDate').textContent = dateStr;
+    const navDate = $('#navDate');
+    if (navDate) navDate.textContent = dateStr;
+    const navDateLarge = $('#navDateLarge');
+    if (navDateLarge) navDateLarge.textContent = dateStr;
   }
 
   // ジャンルカード
@@ -104,7 +102,7 @@ function renderHome() {
         <div class="genre-icon">${genre.icon}</div>
         <div class="genre-name">${genre.name}</div>
       </div>
-      <div class="genre-count">${count} POSTS</div>
+      <div class="genre-count">→</div>
     `;
     card.addEventListener('click', () => {
       if (count === 0) {
@@ -129,7 +127,7 @@ function openGenre(genre, num, fromPopstate = false) {
 
   $('#genreDetailNum').textContent = `CHAPTER ${String(num + 1).padStart(2, '0')}`;
   $('#genreDetailTitle').textContent = genre.name;
-  $('#genreDetailMeta').textContent = `${posts.length} posts collected`;
+  $('#genreDetailMeta').textContent = state.data?.updated_at ? `Updated ${state.data.updated_at.replace(/-/g, '.')}` : '';
 
   renderPostList(posts);
   showView('genre-detail');
