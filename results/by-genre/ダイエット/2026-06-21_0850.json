@@ -1,0 +1,75 @@
+{
+  "mode": "genre",
+  "genre": "ダイエット",
+  "keywords": ["ダイエット", "痩せる", "筋トレ", "糖質制限", "16時間断食", "お腹痩せ", "リバウンド", "食事制限"],
+  "executed_at": "2026-06-21 08:50",
+  "post_count": 5,
+  "note": "重複照合は事後にgit索引＋git showで実施。当初rank1だったkounenki_yuko(DXn9BmukWzS/かかと上げ)が過去ファイル(ダイエット2026-05-05_0800・健康2026-05-31_0048)と重複していたため除外し、kimazeki(ダイエット飯)に差し替えた。残り4件は読めた過去7ファイル/41URLの範囲で重複なし。ただしmacOS権限(com.apple.macl欠如)で過去27ファイルが読めず、完全照合は未達。最終的なURL重複排除はbuild_data.pyに委ねる。",
+  "posts": [
+    {
+      "rank": 1,
+      "author_name": "chiho_chico",
+      "author_url": "https://www.threads.com/@chiho_chico",
+      "post_text": "ピラティスの先生にオススメされた筋トレなんだけど、「反り腰改善＆ぽっこりお腹も一度に落とす方法」なんだって。1週間続けたらズボンを閉める時の感覚が明らかに変わった🤣\n（大体20〜30回が目安。ただし回数より「お腹の力を抜かずに正しいフォームをキープする」のが効果を出す最大のポイント。筋膜ローラーとヨガブロックを使用）",
+      "likes": 9842,
+      "comments": 46,
+      "posted_at": "2026-06-10",
+      "post_url": "https://www.threads.com/@chiho_chico/post/DZYSMAJgSPs",
+      "matched_keyword": "筋トレ",
+      "account_score": 7,
+      "post_score": 3
+    },
+    {
+      "rank": 2,
+      "author_name": "yuki_diet_bodymake",
+      "author_url": "https://www.threads.com/@yuki_diet_bodymake",
+      "post_text": "たんぽぽの川村エミコさんがテレビでやってた、1日1分壁に立つだけで【3日でウエスト－8cm】できたやつ、真似して痩せた人が続出してるらしいから今日からやる！\n（壁に背・腰・後頭部をつけて姿勢を正してキープ。慣れたらかかとも壁につけるとより効果的。1日3回、朝昼夕がおすすめ）",
+      "likes": 5315,
+      "comments": 34,
+      "posted_at": "2026-05-29",
+      "post_url": "https://www.threads.com/@yuki_diet_bodymake/post/DY5uE3YAVxo",
+      "matched_keyword": "お腹痩せ",
+      "account_score": 7,
+      "post_score": 2
+    },
+    {
+      "rank": 3,
+      "author_name": "toma_____bodymake",
+      "author_url": "https://www.threads.com/@toma_____bodymake",
+      "post_text": "2~3kg落としたい人これ試して！\n豆乳200㎖に、はちみつ小さじ1、シナモンパウダー少々。これを毎朝1杯！一気に代謝上がって3週間続けたら『痩せた！？』って聞かれ始めるよ。\n（豆乳→燃えやすい体づくり／ハチミツ→エネルギー不足で代謝が落ちるのを防ぐ／シナモン→体温が上がり代謝アップ。約130kcal。朝食として、または朝食を少し減らしてプラス）",
+      "likes": 2091,
+      "comments": 27,
+      "posted_at": "2026-05-18",
+      "post_url": "https://www.threads.com/@toma_____bodymake/post/DYdjmeCAao2",
+      "matched_keyword": "お腹痩せ",
+      "account_score": 7,
+      "post_score": 3
+    },
+    {
+      "rank": 4,
+      "author_name": "lemon2022.5",
+      "author_url": "https://www.threads.com/@lemon2022.5",
+      "post_text": "だらだら歩く1万歩より食後3分のスクワット。脂肪蓄積させないための最優先タスク。食後の血糖値上昇を物理的に遮断する。\n1万歩歩くには1時間半近くかかるけど、食後3分のスクワットなら「最も脂肪になりやすいタイミング」をピンポイントで狙い撃ちできる。\n私はこうやって体の仕組みの情報を集めて効率よく17kg痩せて、5年ほどリバウンドしていない。",
+      "likes": 1891,
+      "comments": 56,
+      "posted_at": "2026-04-25",
+      "post_url": "https://www.threads.com/@lemon2022.5/post/DXipxemGg7s",
+      "matched_keyword": "リバウンド",
+      "account_score": 7,
+      "post_score": 3
+    },
+    {
+      "rank": 5,
+      "author_name": "kimazeki",
+      "author_url": "https://www.threads.com/@kimazeki",
+      "post_text": "ダイエット中の食事なんて、ほぼこれだけ。\n茹でた鶏胸肉、ブロッコリー、茹で卵。これに塩少々、MCTオイルかけるだけ。あと整腸剤としてエビオス錠&ビオスリー。おかげで体重は3週間で▲8.3kg。\n（朝は豆腐&納豆、昼・夜はこのメニュー。白米やジャガイモも量とタイミングを考えれば食べてOK。ビオスリーは腸内環境を整える目的、エビオス錠と一緒だと効果が上がる）",
+      "likes": 1873,
+      "comments": 71,
+      "posted_at": "2026-06-09",
+      "post_url": "https://www.threads.com/@kimazeki/post/DZXM3LGk0NT",
+      "matched_keyword": "ダイエット",
+      "account_score": 7,
+      "post_score": 3
+    }
+  ]
+}

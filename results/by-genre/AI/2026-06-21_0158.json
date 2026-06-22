@@ -1,0 +1,87 @@
+{
+  "mode": "genre",
+  "genre": "AI",
+  "keywords": ["AI", "ChatGPT", "Claude", "プロンプト", "効率化", "自動化", "Gemini", "NotebookLM"],
+  "executed_at": "2026-06-21 01:58",
+  "post_count": 6,
+  "posts": [
+    {
+      "rank": 1,
+      "author_name": "haru805",
+      "author_url": "https://www.threads.com/@haru805",
+      "post_text": "チャットGPTに頼んでRPGキャラ化してもらいました。プロンプト長くなりましたが置いておきますので、良かったら遊んでくださいー。\n\n【プロンプト】これまでの私との会話から、私をRPGキャラクターとして描いてください。白地に余白を残し、こぼれたインクや水彩の色だまりを先に置き、その上をラフな黒ラインであとから拾うようになぞってキャラクターにしてください。整いすぎないスケッチ感を残し、色は自由で透明感のある軽い印象にしてください。現代の職業名や肩書きは使わず、私の性格・価値観・話し方・得意なこと・雰囲気から、昔ながらの国産ファンタジーRPGに登場しそうな職業・種族・陣営へ翻訳してください（勇者、戦士、武闘家、魔法使い、僧侶、賢者、盗賊、商人、吟遊詩人、魔物使い、敵幹部、魔物など）。職業名の近くにレベルと属性、余白にHP・MP・攻撃・防御・魔力・素早さ・知性・運などを100点満点で添えてください。さらに『得意魔法』を1つ、『必殺技』を1つ入れてください。",
+      "likes": 786,
+      "comments": 516,
+      "posted_at": "2026-05-31",
+      "post_url": "https://www.threads.com/@haru805/post/DY_F5OBEgrM",
+      "matched_keyword": "プロンプト",
+      "account_score": 7,
+      "post_score": 3
+    },
+    {
+      "rank": 2,
+      "author_name": "chroniki_claude",
+      "author_url": "https://www.threads.com/@chroniki_claude",
+      "post_text": "【Anthropic公式実験】Claudeに自販機を1ヶ月間経営させたら、とんでもないことになった。「利益を出せ」という指示だけ渡したAIエージェントが何をしたか。\nAnthropicとAndon Labsが「Project Vend」を実施。Claude Sonnet 3.7（愛称Claudius）にオフィスの自販機を任せ、卸業者へのメール交渉・商品選定・価格設定・在庫管理・Slackでのやり取りまで実行させた。ところが人間に騙されて赤字を出し続けた（インフルエンサー詐称で割引コード発行、タングステンキューブ爆買いで純資産1日17%減）。Phase2で『Seymour Cash』というCEOサブエージェントを追加し役割分担の階層構造にしたら黒字化。\nClaude Code・業務自動化への3つの教訓：①AIに『お人好し』な特性がある前提で設計しガードレールを入れる ②1エージェント万能設計は失敗する→役割分担 ③『普通になる速さ』が一番の教訓。",
+      "likes": 445,
+      "comments": 16,
+      "posted_at": "2026-05-15",
+      "post_url": "https://www.threads.com/@chroniki_claude/post/DYV32S-CnBi",
+      "matched_keyword": "自動化",
+      "account_score": 7,
+      "post_score": 3
+    },
+    {
+      "rank": 3,
+      "author_name": "superultraman1556",
+      "author_url": "https://www.threads.com/@superultraman1556",
+      "post_text": "今日から実験を始めます。「AIに記事を全部書かせて、初売上0→1は達成できるのか」\n先に全部バラします。・記事はAIが書きます ・私は壁打ちするだけ ・経費は月約6,000円 ・使うのはChatGPTとClaude ・売上も正直に報告します ・今日時点で売上は0円です\nたぶん大事なのは『AIが書いたかどうか』ではなく、AIに何をどう聞いたか、どんな壁打ちをしたか、どこを人間が判断したか。月3,000円〜6,000円くらいなら真似するハードルはまだ低いはず。まずは『AI代を回収する』が最初の目標です。進捗はここで、詳しい記録はnoteに書いていきます。",
+      "likes": 423,
+      "comments": 42,
+      "posted_at": "2026-06-10",
+      "post_url": "https://www.threads.com/@superultraman1556/post/DZaMzPHD1YC",
+      "matched_keyword": "ChatGPT",
+      "account_score": 7,
+      "post_score": 2
+    },
+    {
+      "rank": 4,
+      "author_name": "ao_threads_log",
+      "author_url": "https://www.threads.com/@ao_threads_log",
+      "post_text": "会社員がClaude Codeで自動化できるもの、書けるだけ書いた。\n【日次業務】①未読メールを重要度順に要約 ②返信文をトーン込みで下書き生成 ③会議録音から決定事項だけ抽出 ④Slackの自分宛メンションを整理 ⑤ToDoを優先順位付きで再構築 ⑥英文メールの翻訳＋返信生成 ⑦業界ニュースを朝5分で要約 ⑧Excelデータの整形・クレンジング ⑨会議前アジェンダを自動整理 ⑩日報をログから自動生成\n【週次・月次業務】⑪議事録から週報を生成 ⑫PowerPointの構成案を自動作成 ⑬競合情報を定点観測して要約 ⑭売上データを分析＋コメント生成 ⑮定例会議資料の叩き台作成 ⑯Notionタスクの棚卸し ⑰上司向け報告文を結論ファースト化 ⑱PDF資料をA4一枚へ圧縮 ⑲経費・請求データを自動整理 ⑳チーム進捗を自動集計",
+      "likes": 256,
+      "comments": 3,
+      "posted_at": "2026-06-17",
+      "post_url": "https://www.threads.com/@ao_threads_log/post/DZq8_qhjopK",
+      "matched_keyword": "Claude",
+      "account_score": 7,
+      "post_score": 3
+    },
+    {
+      "rank": 5,
+      "author_name": "tokino_ai",
+      "author_url": "https://www.threads.com/@tokino_ai",
+      "post_text": "【大好評だったので、再掲】Claude codeで自動化できること一覧まとめてみたよ\n《SNS・マーケティング》特定ハッシュタグの投稿をAIが要約し毎日定時にトレンド報告／競合アカウントのフォロワー増減を毎日監視しスプレッドシートに記録／ブログ記事をX/Threads/Instagram用にリライトして自動投稿／YouTubeの最新動画を15秒ショート用スクリプトに自動変換 など\n《コンテンツ制作・ブログ》Googleトレンドのキーワードからブログ構成案を毎日3つ作成／海外有料ニュースレターを翻訳・要約しSlackに転送／アイキャッチ画像をタイトルから自動生成 など\n《事務・経理》メール添付ファイルを自動でGoogleドライブに保存／Amazon購入履歴から領収書PDFを自動取得し会計ソフトへ転送／請求書の金額をOCRで読み取り支払いリストを自動作成 など",
+      "likes": 239,
+      "comments": 8,
+      "posted_at": "2026-04-21",
+      "post_url": "https://www.threads.com/@tokino_ai/post/DXYC7w2Aa1T",
+      "matched_keyword": "自動化",
+      "account_score": 8,
+      "post_score": 3
+    },
+    {
+      "rank": 6,
+      "author_name": "mato_11234",
+      "author_url": "https://www.threads.com/@mato_11234",
+      "post_text": "これ相変わらず便利すぎて…1枚の画像から表情差分をポン出しするプロンプト。これまでGeminiで結構長めのプロンプトだったけどChatGPT使うと短くてよき…\nつくりかたは、ChatGPT Image-2(Thinking 5.5)にしてプロンプトと画像を送信▼\n『このアイコンから16種類の喜怒哀楽やその他の表情差分を作ってください。4×4の綺麗なグリッドで並べて制作。アイコンとアイコンの間にはスペースをしっかりとること。背景はクリーンな白。アスペクト比は1:1。』",
+      "likes": 215,
+      "comments": 15,
+      "posted_at": "2026-06-07",
+      "post_url": "https://www.threads.com/@mato_11234/post/DZRGKceE1nY",
+      "matched_keyword": "Gemini",
+      "account_score": 7,
+      "post_score": 3
+    }
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "mode": "genre",
+  "genre": "AI",
+  "keywords": ["AI", "ChatGPT", "Claude", "プロンプト", "効率化", "自動化", "Gemini", "NotebookLM"],
+  "executed_at": "2026-06-22 10:03",
+  "post_count": 4,
+  "posts": [
+    {
+      "rank": 1,
+      "author_name": "yuki_ai_gpt0909",
+      "author_url": "https://www.threads.com/@yuki_ai_gpt0909",
+      "post_text": "英語ペラペラになりたい人、全員これやって。\nChatGPTを使えば、英会話スクールに通わなくても、英語ペラペラ目指せます。\nChatGPTを英会話講師に変身させるプロンプトを用意しました。↓コピペして使ってください\n\n【プロンプト 3選】\n❶ 毎日のリアル英会話ロールプレイ\nあなたは私専属の英会話トレーナーです。\n条件:\n1. 私と英語だけで会話してください（ただし難しい単語にはカッコで日本語訳を補足）。\n2. 会話は「日常シーン」（例：カフェ、空港、買い物）を設定してください。\n3. 私の返答が不自然なら、ネイティブらしい表現に修正し、理由も教えてください。\n4. 必ず「3往復以上の会話」で進めてください。\n5. 最後に「今日の会話のポイント」と「使えるフレーズ」を3つまとめてください。\n最初のテーマは「カフェで注文する場面」でお願いします。\n\n❷ 発音矯正コーチ\nあなたはネイティブ発音のコーチです。\n条件:\n1. 私が指定したフレーズをネイティブの発音ルールに従って分解してください。\n2. カタカナ読みではなく、口の動き・舌の位置・息の使い方を説明してください。\n3. アクセント・イントネーション・リエゾン（音のつながり）も解説してください。\n4. 正しい発音とよくある日本人の誤り例を比較してください。\n5. 練習用の短いセンテンスを提示してください。",
+      "likes": 2806,
+      "comments": 11,
+      "posted_at": "2026-05-31",
+      "post_url": "https://www.threads.com/@yuki_ai_gpt0909/post/DZACWgFCh7A",
+      "matched_keyword": "ChatGPT",
+      "account_score": 8,
+      "post_score": 3
+    },
+    {
+      "rank": 2,
+      "author_name": "mato_11234",
+      "author_url": "https://www.threads.com/@mato_11234",
+      "post_text": "これはかわいすぎる…！\nChatGPTと私のやりとりから箱庭をつくるプロンプト。作ってみたい人は\nこのプロンプトをChatGPTの画像生成モードに入れてみてね▼\n----\n私とChatGPTのやりとりから見える好きなものを詰め込んだミニチュア箱庭を作成してください。\n白い紙でできた正方形の床面をベースにし、その床面の奥側と片側だけに、白い壁を垂直に2面立てた前面と上部は完全に開いているオープンセット。奥行きをもたせる。自然光が差し込む明るい白背景のスタジオに設置し、箱庭に焦点を当て、背景には浅い被写界深度をつけて撮影する。",
+      "likes": 1233,
+      "comments": 495,
+      "posted_at": "2026-06-03",
+      "post_url": "https://www.threads.com/@mato_11234/post/DZHYo-aE1QJ",
+      "matched_keyword": "プロンプト",
+      "account_score": 7,
+      "post_score": 3
+    },
+    {
+      "rank": 3,
+      "author_name": "genki_english_lab",
+      "author_url": "https://www.threads.com/@genki_english_lab",
+      "post_text": "仕事終わり、Geminiと英会話練習！\nじつは、これゲームしてますww\nやり方は、\n①Gemini Liveを起動\n②カメラシェア\n③カメラをゲーム画面に向ける\n④英会話スタート\nもしかしたら今後は、英会話＝娯楽の世界になっていくのかもしれない😆😆",
+      "likes": 1073,
+      "comments": 5,
+      "posted_at": "2026-05-12",
+      "post_url": "https://www.threads.com/@genki_english_lab/post/DYO8bWXAnbR",
+      "matched_keyword": "Gemini",
+      "account_score": 7,
+      "post_score": 3
+    },
+    {
+      "rank": 4,
+      "author_name": "yuki_ai_gpt0909",
+      "author_url": "https://www.threads.com/@yuki_ai_gpt0909",
+      "post_text": "友「マニュアル作成つらい、、、スクショ撮って説明書くとか拷問じゃん。」\n僕「それ、Gemini使ったら数分で終わるんです！」\n友「え？どうやって？」\n僕「操作手順を画面録画して、その動画をGeminiに放り込むだけ。自動でマニュアル化してくれるよ。」\n友「すごい・・・。」\n僕「しかも見出しまで自動生成で修正もほぼ不要。」\n友「もう手作業いらんのでは？」",
+      "likes": 245,
+      "comments": 2,
+      "posted_at": "2026-06-19",
+      "post_url": "https://www.threads.com/@yuki_ai_gpt0909/post/DZuneRbFK6-",
+      "matched_keyword": "Gemini",
+      "account_score": 8,
+      "post_score": 3
+    }
+  ]
+}

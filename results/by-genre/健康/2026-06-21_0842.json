@@ -1,0 +1,88 @@
+{
+  "mode": "genre",
+  "genre": "健康",
+  "keywords": ["健康", "睡眠", "腸活", "疲労", "不眠", "肩こり", "自律神経", "ストレス"],
+  "executed_at": "2026-06-21 08:42",
+  "post_count": 6,
+  "note": "重複照合は事後にgit索引＋git showで実施。6件すべて、読めた過去7ファイル/41URLの範囲で重複なし。ただしmacOS権限(com.apple.macl欠如)で過去13ファイルが読めず完全照合は未達。最終的なURL重複排除はbuild_data.pyに委ねる。",
+  "posts": [
+    {
+      "rank": 1,
+      "author_name": "eiburu_jiji_imoto",
+      "author_url": "https://www.threads.com/@eiburu_jiji_imoto",
+      "post_text": "40歳すぎたらここ放置が一番老けます。実はここ👇\n👉神経と血流の“ハブ”\nここが詰まると ✔白髪 ✔薄毛 ✔たるみ 全部つながってきます。\nだから今日は誰でもできる3つのエクササイズ入れてます👇とりあえず1個でもいいのでやってみてください。やった人だけ変わるやつです\n#白髪対策 #薄毛対策 #頭皮ケア #自律神経整える #食いしばり改善",
+      "likes": 1086,
+      "comments": 2,
+      "posted_at": "2026-05-05",
+      "post_url": "https://www.threads.com/@eiburu_jiji_imoto/post/DX9GoODCvtA",
+      "matched_keyword": "自律神経",
+      "account_score": 7,
+      "post_score": 2
+    },
+    {
+      "rank": 2,
+      "author_name": "mochi_bihada",
+      "author_url": "https://www.threads.com/@mochi_bihada",
+      "post_text": "ローソン限定の無印のかっさ付きコーム。「口が開く」「飛ぶぞ」って言われてるから解説しとく。頭皮と顔の皮膚は1枚で繋がってる。だから頭皮をかっさでほぐす＝顔が上がるは本当。\n特に効くのは↓\n・側頭筋（耳の上）→眼精疲労・目の開きUP\n・後頭筋（後頭部の下）→首肩こり・不眠\n・帽状腱膜（頭頂部）→自律神経・おでこのシワ\n・生え際→前頭筋ほぐして額のシワ予防\nコームタイプは髪と一緒にケアできて続けやすい。お風呂場に置いて、シャンプー前に30秒やるだけで頭が軽くなる。「擦らずに、置いて揺らす」だけ覚えておいて。タイミングは、お風呂の中（リンパが流れやすい）／シャンプー前（頭皮の油分が天然オイル代わり）／朝のスキンケア後（むくみが取れて化粧ノリUP）／寝る前（副交感神経優位で寝つきUP）。",
+      "likes": 850,
+      "comments": 12,
+      "posted_at": "2026-05-25",
+      "post_url": "https://www.threads.com/@mochi_bihada/post/DYwX4DwAKtc",
+      "matched_keyword": "不眠",
+      "account_score": 8,
+      "post_score": 3
+    },
+    {
+      "rank": 3,
+      "author_name": "miraikitchein",
+      "author_url": "https://www.threads.com/@miraikitchein",
+      "post_text": "日本人なら知っておいて欲しい「薬」のように扱う食べ物\n• 梅干し → 血液を弱アルカリ性に整える・疲労回復\n• 本葛（くず） → 胃腸の保護・体温を上げて免疫を高める\n• れんこん → 咳や痰のケア・呼吸器系（肺）の強化\n• 玄米 → 生命力を養う・体内の毒素を出す（デトックス）\n• 味噌 → 腸内環境を整える・放射性物質や重金属の排出\n• 大根→ 動物性脂質の分解・消化を助ける\n• 小豆（あずき） → 腎臓の働きを助ける・むくみ解消\n• 干し椎茸 → 体に溜まった古い脂や塩分を溶かして出す\n• ごま塩 → 造血作用を助け、神経を安定させる\n台所は、内側から整えられる最高の薬局。台所にある智慧を味方につければ、不調は自分でコントロールできるようになる。",
+      "likes": 599,
+      "comments": 6,
+      "posted_at": "2026-05-04",
+      "post_url": "https://www.threads.com/@miraikitchein/post/DX5I4NSk51F",
+      "matched_keyword": "腸活",
+      "account_score": 7,
+      "post_score": 3
+    },
+    {
+      "rank": 4,
+      "author_name": "momo_bismore",
+      "author_url": "https://www.threads.com/@momo_bismore",
+      "post_text": "これ、死ぬまで食べ続けてください。\n1.トマトは最強の美白食材\n2.アーモンドミルクは若返りのビタミン\n3.もずくは乾燥肌予防\n4.卵は肌をつくるタンパク質\n5.キウイはメラニン色素を還元\n6.ブロッコリーはレモン7個分のビタミンC\n7.納豆は肌のバリア機能強化\n8.魚はコラーゲンが豊富\n9.ヨーグルトは腸活に\n10.マヌカハニーは腸活・抗菌・抗酸化\n特に毎日食べてほしいのがマヌカハニー。抗菌だけでなく腸内の善玉菌の餌になり腸活に、抗酸化成分でエイジングケアにもなる。",
+      "likes": 599,
+      "comments": 5,
+      "posted_at": "2026-06-19",
+      "post_url": "https://www.threads.com/@momo_bismore/post/DZv_jbGCUC-",
+      "matched_keyword": "腸活",
+      "account_score": 7,
+      "post_score": 3
+    },
+    {
+      "rank": 5,
+      "author_name": "yumiko_kenkou_kirei_life",
+      "author_url": "https://www.threads.com/@yumiko_kenkou_kirei_life",
+      "post_text": "40代なのに「明らかに30代にしか見えない人」が、日常使いしてるもの。\n①トマトジュース ＝ 飲む美白美容液\n②甘酒（冷） ＝ 飲む点滴美容液\n③緑茶 ＝ 飲むメラニンストッパー\n④豆乳 ＝ 飲む皮脂セーブミルク\n⑤ルイボスティー ＝ 飲むアンチエイジング茶\n⑥常温の水 ＝ 飲む美肌デトックス水\n⑦玄米（または大麦） ＝ 食べる若返り炭水化物\n⑧アマニ油＝ 塗るより潤うインナーオイル\n⑨納豆 ＝ 食べる肌の生まれ変わりサプリ\n⑩ギリシャヨーグルト ＝ 食べる腸活エステ\n特におすすめなのは【玄米】と【アマニ油】。炭水化物や油をムリに抜くより、日常使いして内側から潤う土台を作るほうが近道。",
+      "likes": 498,
+      "comments": 5,
+      "posted_at": "2026-06-17",
+      "post_url": "https://www.threads.com/@yumiko_kenkou_kirei_life/post/DZsB4sdiRHs",
+      "matched_keyword": "腸活",
+      "account_score": 7,
+      "post_score": 3
+    },
+    {
+      "rank": 6,
+      "author_name": "darusa_reset",
+      "author_url": "https://www.threads.com/@darusa_reset",
+      "post_text": "マグネシウムはヤバいミネラルです。毎日補給していたら、夜中に目が覚めなくなります。更年期で乱れた自律神経を落ち着かせて、肩こり・足のつり・寝つきの悪さをまとめてケアしてくれます。ただ、選び方を間違えると意味がない。正しい選び方は、\n①形態がグリシン酸かクエン酸か：酸化マグネシウムは吸収率4〜5%、グリシン酸・クエン酸は80%近く吸収。\n②ビタミンB6が配合されているか：B6はマグネシウムの細胞への取り込みを助ける。B6なしは選ばない。\n③成分表にマグネシウム○mgと元素量で表示されているか：「酸化マグネシウム○mg」のみ表示は実際の摂取量が計算できないので避ける。\nこの3つを守るだけで体の反応がまったく変わる。",
+      "likes": 367,
+      "comments": 19,
+      "posted_at": "2026-05-28",
+      "post_url": "https://www.threads.com/@darusa_reset/post/DY4dUHrE-VP",
+      "matched_keyword": "自律神経",
+      "account_score": 8,
+      "post_score": 3
+    }
+  ]
+}
